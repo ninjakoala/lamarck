@@ -5,7 +5,9 @@
             "i386",
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": false,
         "family": "General Purpose",
         "generation": "previous",
@@ -88,7 +90,9 @@
             "i386",
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": false,
         "family": "General purpose",
         "generation": "previous",
@@ -170,7 +174,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 4000,
         "ebs_optimized": true,
+        "ebs_throughput": 500,
         "enhanced_networking": false,
         "family": "General purpose",
         "generation": "previous",
@@ -252,7 +258,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 8000,
         "ebs_optimized": true,
+        "ebs_throughput": 1000,
         "enhanced_networking": false,
         "family": "General purpose",
         "generation": "previous",
@@ -335,7 +343,9 @@
             "i386",
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": false,
         "family": "Compute optimized",
         "generation": "previous",
@@ -416,7 +426,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 8000,
         "ebs_optimized": true,
+        "ebs_throughput": 1000,
         "enhanced_networking": false,
         "family": "Compute optimized",
         "generation": "previous",
@@ -498,7 +510,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": false,
         "family": "Compute optimized",
         "generation": "previous",
@@ -556,7 +570,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": false,
         "family": "GPU instances",
         "generation": "previous",
@@ -594,7 +610,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": false,
         "family": "Memory optimized",
         "generation": "previous",
@@ -676,7 +694,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 4000,
         "ebs_optimized": true,
+        "ebs_throughput": 500,
         "enhanced_networking": false,
         "family": "Memory optimized",
         "generation": "previous",
@@ -758,7 +778,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 8000,
         "ebs_optimized": true,
+        "ebs_throughput": 1000,
         "enhanced_networking": false,
         "family": "Memory optimized",
         "generation": "previous",
@@ -840,7 +862,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": false,
         "family": "Memory optimized",
         "generation": "previous",
@@ -892,7 +916,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": false,
         "family": "Storage optimized",
         "generation": "previous",
@@ -910,17 +936,46 @@
                 "mswinSQL": "6.829",
                 "mswinSQLWeb": "4.084"
             },
+            "ap-southeast-1": {
+                "linux": "N/A",
+                "mswin": "N/A",
+                "mswinSQL": "N/A",
+                "mswinSQLWeb": "N/A"
+            },
+            "ap-southeast-2": {
+                "linux": "N/A",
+                "mswin": "N/A",
+                "mswinSQL": "N/A",
+                "mswinSQLWeb": "N/A"
+            },
             "eu-west-1": {
                 "linux": "3.100",
                 "mswin": "3.580",
                 "mswinSQL": "4.607",
                 "mswinSQLWeb": "3.660"
             },
+            "sa-east-1": {
+                "linux": "N/A",
+                "mswin": "N/A",
+                "mswinSQL": "N/A",
+                "mswinSQLWeb": "N/A"
+            },
             "us-east-1": {
                 "linux": "3.100",
                 "mswin": "3.580",
                 "mswinSQL": "4.607",
                 "mswinSQLWeb": "3.660"
+            },
+            "us-gov-west-1": {
+                "linux": "N/A",
+                "mswin": "N/A",
+                "mswinSQLWeb": "N/A"
+            },
+            "us-west-1": {
+                "linux": "N/A",
+                "mswin": "N/A",
+                "mswinSQL": "N/A",
+                "mswinSQLWeb": "N/A"
             },
             "us-west-2": {
                 "linux": "3.100",
@@ -941,12 +996,98 @@
         }
     },
     {
+        "ECU": 35.0,
+        "arch": [
+            "x86_64"
+        ],
+        "ebs_iops": 0,
+        "ebs_optimized": false,
+        "ebs_throughput": 0,
+        "enhanced_networking": false,
+        "family": "Storage optimized",
+        "generation": "previous",
+        "instance_type": "hs1.8xlarge",
+        "linux_virtualization_types": [
+            "HVM",
+            "PV"
+        ],
+        "memory": 117.0,
+        "network_performance": "10 Gigabit",
+        "pricing": {
+            "ap-northeast-1": {
+                "linux": "5.400",
+                "mswin": "5.714",
+                "mswinSQL": "8.970",
+                "mswinSQLWeb": "5.917"
+            },
+            "ap-southeast-1": {
+                "linux": "5.570",
+                "mswin": "5.901",
+                "mswinSQL": "9.320",
+                "mswinSQLWeb": "6.114"
+            },
+            "ap-southeast-2": {
+                "linux": "5.570",
+                "mswin": "5.901",
+                "mswinSQL": "9.320",
+                "mswinSQLWeb": "6.114"
+            },
+            "eu-west-1": {
+                "linux": "4.900",
+                "mswin": "4.931",
+                "mswinSQL": "8.350",
+                "mswinSQLWeb": "5.144"
+            },
+            "sa-east-1": {
+                "linux": "N/A",
+                "mswin": "N/A",
+                "mswinSQL": "N/A",
+                "mswinSQLWeb": "N/A"
+            },
+            "us-east-1": {
+                "linux": "4.600",
+                "mswin": "4.931",
+                "mswinSQL": "8.350",
+                "mswinSQLWeb": "5.144"
+            },
+            "us-gov-west-1": {
+                "linux": "5.520",
+                "mswin": "6.126",
+                "mswinSQLWeb": "6.339"
+            },
+            "us-west-1": {
+                "linux": "N/A",
+                "mswin": "N/A",
+                "mswinSQL": "N/A",
+                "mswinSQLWeb": "N/A"
+            },
+            "us-west-2": {
+                "linux": "4.600",
+                "mswin": "4.931",
+                "mswinSQL": "8.350",
+                "mswinSQLWeb": "5.144"
+            }
+        },
+        "storage": {
+            "devices": 24,
+            "size": 2000,
+            "ssd": false
+        },
+        "vCPU": 17,
+        "vpc": {
+            "ips_per_eni": 30,
+            "max_enis": 8
+        }
+    },
+    {
         "ECU": 0,
         "arch": [
             "i386",
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": false,
         "family": "Micro",
         "generation": "previous",
@@ -1024,7 +1165,9 @@
             "x86_64",
             "i386"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": false,
         "family": "General purpose",
         "generation": "current",
@@ -1099,7 +1242,9 @@
             "x86_64",
             "i386"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": false,
         "family": "General purpose",
         "generation": "current",
@@ -1173,7 +1318,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": false,
         "family": "General purpose",
         "generation": "current",
@@ -1247,7 +1394,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": false,
         "family": "General purpose",
         "generation": "current",
@@ -1334,7 +1483,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": false,
         "family": "General purpose",
         "generation": "current",
@@ -1423,7 +1574,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 4000,
         "ebs_optimized": true,
+        "ebs_throughput": 500,
         "enhanced_networking": false,
         "family": "General purpose",
         "generation": "current",
@@ -1512,7 +1665,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 8000,
         "ebs_optimized": true,
+        "ebs_throughput": 1000,
         "enhanced_networking": false,
         "family": "General purpose",
         "generation": "current",
@@ -1601,7 +1756,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 4000,
         "ebs_optimized": true,
+        "ebs_throughput": 500,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -1629,6 +1786,12 @@
                 "mswin": "0.252",
                 "mswinSQL": "1.452",
                 "mswinSQLWeb": "0.460"
+            },
+            "eu-central-1": {
+                "linux": "0.148",
+                "mswin": "0.231",
+                "mswinSQL": "1.448",
+                "mswinSQLWeb": "0.456"
             },
             "eu-west-1": {
                 "linux": "0.132",
@@ -1667,7 +1830,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 6000,
         "ebs_optimized": true,
+        "ebs_throughput": 750,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -1695,6 +1860,12 @@
                 "mswin": "0.503",
                 "mswinSQL": "1.767",
                 "mswinSQLWeb": "0.871"
+            },
+            "eu-central-1": {
+                "linux": "0.296",
+                "mswin": "0.462",
+                "mswinSQL": "1.759",
+                "mswinSQLWeb": "0.863"
             },
             "eu-west-1": {
                 "linux": "0.264",
@@ -1733,7 +1904,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 8000,
         "ebs_optimized": true,
+        "ebs_throughput": 1000,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -1761,6 +1934,12 @@
                 "mswin": "1.006",
                 "mswinSQL": "3.513",
                 "mswinSQLWeb": "1.805"
+            },
+            "eu-central-1": {
+                "linux": "0.592",
+                "mswin": "0.924",
+                "mswinSQL": "3.497",
+                "mswinSQLWeb": "1.789"
             },
             "eu-west-1": {
                 "linux": "0.528",
@@ -1799,7 +1978,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 16000,
         "ebs_optimized": true,
+        "ebs_throughput": 2000,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -1827,6 +2008,12 @@
                 "mswin": "2.013",
                 "mswinSQL": "5.916",
                 "mswinSQLWeb": "2.567"
+            },
+            "eu-central-1": {
+                "linux": "1.184",
+                "mswin": "1.848",
+                "mswinSQL": "5.884",
+                "mswinSQLWeb": "2.535"
             },
             "eu-west-1": {
                 "linux": "1.056",
@@ -1865,7 +2052,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 32000,
         "ebs_optimized": true,
+        "ebs_throughput": 4000,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -1893,6 +2082,12 @@
                 "mswin": "4.026",
                 "mswinSQL": "13.242",
                 "mswinSQLWeb": "4.942"
+            },
+            "eu-central-1": {
+                "linux": "2.368",
+                "mswin": "3.696",
+                "mswinSQL": "13.178",
+                "mswinSQLWeb": "4.878"
             },
             "eu-west-1": {
                 "linux": "2.112",
@@ -1931,7 +2126,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -2017,7 +2214,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 4000,
         "ebs_optimized": true,
+        "ebs_throughput": 500,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -2106,7 +2305,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 8000,
         "ebs_optimized": true,
+        "ebs_throughput": 1000,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -2195,7 +2396,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 16000,
         "ebs_optimized": true,
+        "ebs_throughput": 2000,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -2284,7 +2487,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -2373,7 +2578,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 8000,
         "ebs_optimized": true,
+        "ebs_throughput": 1000,
         "enhanced_networking": false,
         "family": "GPU instances",
         "generation": "current",
@@ -2446,7 +2653,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": true,
         "family": "Memory optimized",
         "generation": "current",
@@ -2528,7 +2737,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 4000,
         "ebs_optimized": true,
+        "ebs_throughput": 500,
         "enhanced_networking": true,
         "family": "Memory optimized",
         "generation": "current",
@@ -2610,7 +2821,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 8000,
         "ebs_optimized": true,
+        "ebs_throughput": 1000,
         "enhanced_networking": true,
         "family": "Memory optimized",
         "generation": "current",
@@ -2692,7 +2905,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 16000,
         "ebs_optimized": true,
+        "ebs_throughput": 2000,
         "enhanced_networking": true,
         "family": "Memory optimized",
         "generation": "current",
@@ -2774,7 +2989,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": true,
         "family": "Memory optimized",
         "generation": "current",
@@ -2856,7 +3073,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 4000,
         "ebs_optimized": true,
+        "ebs_throughput": 500,
         "enhanced_networking": true,
         "family": "Storage optimized",
         "generation": "current",
@@ -2938,7 +3157,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 8000,
         "ebs_optimized": true,
+        "ebs_throughput": 1000,
         "enhanced_networking": true,
         "family": "Storage optimized",
         "generation": "current",
@@ -3020,7 +3241,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 16000,
         "ebs_optimized": true,
+        "ebs_throughput": 2000,
         "enhanced_networking": true,
         "family": "Storage optimized",
         "generation": "current",
@@ -3102,7 +3325,9 @@
         "arch": [
             "x86_64"
         ],
+        "ebs_iops": 0,
         "ebs_optimized": false,
+        "ebs_throughput": 0,
         "enhanced_networking": true,
         "family": "Storage optimized",
         "generation": "current",
@@ -3180,66 +3405,224 @@
         }
     },
     {
-        "ECU": 35.0,
+        "ECU": 14.0,
         "arch": [
             "x86_64"
         ],
-        "ebs_optimized": false,
-        "enhanced_networking": false,
+        "ebs_iops": 6000,
+        "ebs_optimized": true,
+        "ebs_throughput": 750,
+        "enhanced_networking": true,
         "family": "Storage optimized",
         "generation": "current",
-        "instance_type": "hs1.8xlarge",
+        "instance_type": "d2.xlarge",
         "linux_virtualization_types": [
-            "HVM",
-            "PV"
+            "HVM"
         ],
-        "memory": 117.0,
+        "memory": 30.5,
+        "network_performance": "Moderate",
+        "pricing": {
+            "ap-northeast-1": {
+                "linux": "0.844",
+                "mswin": "0.975"
+            },
+            "ap-southeast-1": {
+                "linux": "0.870",
+                "mswin": "1.001"
+            },
+            "ap-southeast-2": {
+                "linux": "0.870",
+                "mswin": "1.001"
+            },
+            "eu-central-1": {
+                "linux": "0.794",
+                "mswin": "0.925"
+            },
+            "eu-west-1": {
+                "linux": "0.735",
+                "mswin": "0.866"
+            },
+            "us-east-1": {
+                "linux": "0.690",
+                "mswin": "0.821"
+            },
+            "us-west-2": {
+                "linux": "0.690",
+                "mswin": "0.821"
+            }
+        },
+        "storage": {
+            "devices": 3,
+            "size": 2000,
+            "ssd": false
+        },
+        "vCPU": 4,
+        "vpc": {
+            "ips_per_eni": 15,
+            "max_enis": 4
+        }
+    },
+    {
+        "ECU": 28.0,
+        "arch": [
+            "x86_64"
+        ],
+        "ebs_iops": 8000,
+        "ebs_optimized": true,
+        "ebs_throughput": 1000,
+        "enhanced_networking": true,
+        "family": "Storage optimized",
+        "generation": "current",
+        "instance_type": "d2.2xlarge",
+        "linux_virtualization_types": [
+            "HVM"
+        ],
+        "memory": 61.0,
+        "network_performance": "High",
+        "pricing": {
+            "ap-northeast-1": {
+                "linux": "1.688",
+                "mswin": "1.909"
+            },
+            "ap-southeast-1": {
+                "linux": "1.740",
+                "mswin": "1.961"
+            },
+            "ap-southeast-2": {
+                "linux": "1.740",
+                "mswin": "1.961"
+            },
+            "eu-central-1": {
+                "linux": "1.588",
+                "mswin": "1.809"
+            },
+            "eu-west-1": {
+                "linux": "1.470",
+                "mswin": "1.691"
+            },
+            "us-east-1": {
+                "linux": "1.380",
+                "mswin": "1.601"
+            },
+            "us-west-2": {
+                "linux": "1.380",
+                "mswin": "1.601"
+            }
+        },
+        "storage": {
+            "devices": 6,
+            "size": 2000,
+            "ssd": false
+        },
+        "vCPU": 8,
+        "vpc": {
+            "ips_per_eni": 15,
+            "max_enis": 4
+        }
+    },
+    {
+        "ECU": 56.0,
+        "arch": [
+            "x86_64"
+        ],
+        "ebs_iops": 16000,
+        "ebs_optimized": true,
+        "ebs_throughput": 2000,
+        "enhanced_networking": true,
+        "family": "Storage optimized",
+        "generation": "current",
+        "instance_type": "d2.4xlarge",
+        "linux_virtualization_types": [
+            "HVM"
+        ],
+        "memory": 122.0,
+        "network_performance": "High",
+        "pricing": {
+            "ap-northeast-1": {
+                "linux": "3.376",
+                "mswin": "3.678"
+            },
+            "ap-southeast-1": {
+                "linux": "3.480",
+                "mswin": "3.782"
+            },
+            "ap-southeast-2": {
+                "linux": "3.480",
+                "mswin": "3.782"
+            },
+            "eu-central-1": {
+                "linux": "3.176",
+                "mswin": "3.478"
+            },
+            "eu-west-1": {
+                "linux": "2.940",
+                "mswin": "3.242"
+            },
+            "us-east-1": {
+                "linux": "2.760",
+                "mswin": "3.062"
+            },
+            "us-west-2": {
+                "linux": "2.760",
+                "mswin": "3.062"
+            }
+        },
+        "storage": {
+            "devices": 12,
+            "size": 2000,
+            "ssd": false
+        },
+        "vCPU": 16,
+        "vpc": {
+            "ips_per_eni": 30,
+            "max_enis": 8
+        }
+    },
+    {
+        "ECU": 116.0,
+        "arch": [
+            "x86_64"
+        ],
+        "ebs_iops": 32000,
+        "ebs_optimized": true,
+        "ebs_throughput": 4000,
+        "enhanced_networking": true,
+        "family": "Storage optimized",
+        "generation": "current",
+        "instance_type": "d2.8xlarge",
+        "linux_virtualization_types": [
+            "HVM"
+        ],
+        "memory": 244.0,
         "network_performance": "10 Gigabit",
         "pricing": {
             "ap-northeast-1": {
-                "linux": "5.400",
-                "mswin": "5.714",
-                "mswinSQL": "8.970",
-                "mswinSQLWeb": "5.917"
+                "linux": "6.752",
+                "mswin": "7.430"
             },
             "ap-southeast-1": {
-                "linux": "5.570",
-                "mswin": "5.901",
-                "mswinSQL": "9.320",
-                "mswinSQLWeb": "6.114"
+                "linux": "6.960",
+                "mswin": "7.638"
             },
             "ap-southeast-2": {
-                "linux": "5.570",
-                "mswin": "5.901",
-                "mswinSQL": "9.320",
-                "mswinSQLWeb": "6.114"
+                "linux": "6.960",
+                "mswin": "7.638"
             },
             "eu-central-1": {
-                "linux": null
+                "linux": "6.352",
+                "mswin": "7.030"
             },
             "eu-west-1": {
-                "linux": "4.900",
-                "mswin": "4.931",
-                "mswinSQL": "8.350",
-                "mswinSQLWeb": "5.144"
+                "linux": "5.880",
+                "mswin": "6.558"
             },
             "us-east-1": {
-                "linux": "4.600",
-                "mswin": "4.931",
-                "mswinSQL": "8.350",
-                "mswinSQLWeb": "5.144"
-            },
-            "us-gov-west-1": {
                 "linux": "5.520",
-                "mswin": "6.126",
-                "mswinSQL": "9.270",
-                "mswinSQLWeb": "6.339"
+                "mswin": "6.198"
             },
             "us-west-2": {
-                "linux": "4.600",
-                "mswin": "4.931",
-                "mswinSQL": "8.350",
-                "mswinSQLWeb": "5.144"
+                "linux": "5.520",
+                "mswin": "6.198"
             }
         },
         "storage": {
@@ -3247,7 +3630,7 @@
             "size": 2000,
             "ssd": false
         },
-        "vCPU": 16,
+        "vCPU": 36,
         "vpc": {
             "ips_per_eni": 30,
             "max_enis": 8

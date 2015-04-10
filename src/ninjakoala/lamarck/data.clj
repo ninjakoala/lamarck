@@ -5,7 +5,9 @@
 
 (def ^:private instance-key-mappings
   {:ECU :ecu
+   :ebs_iops :ebs-iops
    :ebs_optimized :ebs-optimized?
+   :ebs_throughput :ebs-throughput
    :enhanced_networking :enhanced-networking
    :instance_type :instance-type
    :linux_virtualization_types :linux-virtualization-types
