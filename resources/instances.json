@@ -12,9 +12,7 @@
         "family": "General Purpose",
         "generation": "previous",
         "instance_type": "m1.small",
-        "linux_virtualization_types": [
-            "PV"
-        ],
+        "linux_virtualization_types": [],
         "max_bandwidth": 0,
         "memory": 1.7,
         "network_performance": "Low",
@@ -98,9 +96,7 @@
         "family": "General purpose",
         "generation": "previous",
         "instance_type": "m1.medium",
-        "linux_virtualization_types": [
-            "PV"
-        ],
+        "linux_virtualization_types": [],
         "max_bandwidth": 0,
         "memory": 3.75,
         "network_performance": "Moderate",
@@ -183,9 +179,7 @@
         "family": "General purpose",
         "generation": "previous",
         "instance_type": "m1.large",
-        "linux_virtualization_types": [
-            "PV"
-        ],
+        "linux_virtualization_types": [],
         "max_bandwidth": 62.5,
         "memory": 7.5,
         "network_performance": "Moderate",
@@ -268,9 +262,7 @@
         "family": "General purpose",
         "generation": "previous",
         "instance_type": "m1.xlarge",
-        "linux_virtualization_types": [
-            "PV"
-        ],
+        "linux_virtualization_types": [],
         "max_bandwidth": 125.0,
         "memory": 15.0,
         "network_performance": "High",
@@ -354,9 +346,7 @@
         "family": "Compute optimized",
         "generation": "previous",
         "instance_type": "c1.medium",
-        "linux_virtualization_types": [
-            "PV"
-        ],
+        "linux_virtualization_types": [],
         "max_bandwidth": 0,
         "memory": 1.7,
         "network_performance": "Moderate",
@@ -364,37 +354,31 @@
             "ap-northeast-1": {
                 "linux": "0.158",
                 "mswin": "0.258",
-                "mswinSQL": "N/A",
                 "mswinSQLWeb": "0.310"
             },
             "ap-southeast-1": {
                 "linux": "0.164",
                 "mswin": "0.266",
-                "mswinSQL": "N/A",
                 "mswinSQLWeb": "0.310"
             },
             "ap-southeast-2": {
                 "linux": "0.164",
                 "mswin": "0.266",
-                "mswinSQL": "N/A",
                 "mswinSQLWeb": "0.310"
             },
             "eu-west-1": {
                 "linux": "0.148",
                 "mswin": "0.210",
-                "mswinSQL": "N/A",
                 "mswinSQLWeb": "0.310"
             },
             "sa-east-1": {
                 "linux": "0.179",
                 "mswin": "0.259",
-                "mswinSQL": "N/A",
                 "mswinSQLWeb": "0.369"
             },
             "us-east-1": {
                 "linux": "0.130",
                 "mswin": "0.210",
-                "mswinSQL": "N/A",
                 "mswinSQLWeb": "0.310"
             },
             "us-gov-west-1": {
@@ -405,13 +389,11 @@
             "us-west-1": {
                 "linux": "0.148",
                 "mswin": "0.228",
-                "mswinSQL": "N/A",
                 "mswinSQLWeb": "0.329"
             },
             "us-west-2": {
                 "linux": "0.130",
                 "mswin": "0.210",
-                "mswinSQL": "N/A",
                 "mswinSQLWeb": "0.310"
             }
         },
@@ -438,9 +420,7 @@
         "family": "Compute optimized",
         "generation": "previous",
         "instance_type": "c1.xlarge",
-        "linux_virtualization_types": [
-            "PV"
-        ],
+        "linux_virtualization_types": [],
         "max_bandwidth": 125.0,
         "memory": 7.0,
         "network_performance": "High",
@@ -523,9 +503,7 @@
         "family": "Compute optimized",
         "generation": "previous",
         "instance_type": "cc2.8xlarge",
-        "linux_virtualization_types": [
-            "HVM"
-        ],
+        "linux_virtualization_types": [],
         "max_bandwidth": 0,
         "memory": 60.5,
         "network_performance": "10 Gigabit",
@@ -625,9 +603,7 @@
         "family": "Memory optimized",
         "generation": "previous",
         "instance_type": "m2.xlarge",
-        "linux_virtualization_types": [
-            "PV"
-        ],
+        "linux_virtualization_types": [],
         "max_bandwidth": 0,
         "memory": 17.1,
         "network_performance": "Moderate",
@@ -710,9 +686,7 @@
         "family": "Memory optimized",
         "generation": "previous",
         "instance_type": "m2.2xlarge",
-        "linux_virtualization_types": [
-            "PV"
-        ],
+        "linux_virtualization_types": [],
         "max_bandwidth": 62.5,
         "memory": 34.2,
         "network_performance": "Moderate",
@@ -795,9 +769,7 @@
         "family": "Memory optimized",
         "generation": "previous",
         "instance_type": "m2.4xlarge",
-        "linux_virtualization_types": [
-            "PV"
-        ],
+        "linux_virtualization_types": [],
         "max_bandwidth": 125.0,
         "memory": 68.4,
         "network_performance": "High",
@@ -880,9 +852,7 @@
         "family": "Memory optimized",
         "generation": "previous",
         "instance_type": "cr1.8xlarge",
-        "linux_virtualization_types": [
-            "HVM"
-        ],
+        "linux_virtualization_types": [],
         "max_bandwidth": 0,
         "memory": 244.0,
         "network_performance": "10 Gigabit",
@@ -935,10 +905,7 @@
         "family": "Storage optimized",
         "generation": "previous",
         "instance_type": "hi1.4xlarge",
-        "linux_virtualization_types": [
-            "HVM",
-            "PV"
-        ],
+        "linux_virtualization_types": [],
         "max_bandwidth": 0,
         "memory": 60.5,
         "network_performance": "10 Gigabit",
@@ -949,46 +916,17 @@
                 "mswinSQL": "6.829",
                 "mswinSQLWeb": "4.084"
             },
-            "ap-southeast-1": {
-                "linux": "N/A",
-                "mswin": "N/A",
-                "mswinSQL": "N/A",
-                "mswinSQLWeb": "N/A"
-            },
-            "ap-southeast-2": {
-                "linux": "N/A",
-                "mswin": "N/A",
-                "mswinSQL": "N/A",
-                "mswinSQLWeb": "N/A"
-            },
             "eu-west-1": {
                 "linux": "3.100",
                 "mswin": "3.580",
                 "mswinSQL": "4.607",
                 "mswinSQLWeb": "3.660"
             },
-            "sa-east-1": {
-                "linux": "N/A",
-                "mswin": "N/A",
-                "mswinSQL": "N/A",
-                "mswinSQLWeb": "N/A"
-            },
             "us-east-1": {
                 "linux": "3.100",
                 "mswin": "3.580",
                 "mswinSQL": "4.607",
                 "mswinSQLWeb": "3.660"
-            },
-            "us-gov-west-1": {
-                "linux": "N/A",
-                "mswin": "N/A",
-                "mswinSQLWeb": "N/A"
-            },
-            "us-west-1": {
-                "linux": "N/A",
-                "mswin": "N/A",
-                "mswinSQL": "N/A",
-                "mswinSQLWeb": "N/A"
             },
             "us-west-2": {
                 "linux": "3.100",
@@ -1020,10 +958,7 @@
         "family": "Storage optimized",
         "generation": "previous",
         "instance_type": "hs1.8xlarge",
-        "linux_virtualization_types": [
-            "HVM",
-            "PV"
-        ],
+        "linux_virtualization_types": [],
         "max_bandwidth": 0,
         "memory": 117.0,
         "network_performance": "10 Gigabit",
@@ -1052,12 +987,6 @@
                 "mswinSQL": "8.350",
                 "mswinSQLWeb": "5.144"
             },
-            "sa-east-1": {
-                "linux": "N/A",
-                "mswin": "N/A",
-                "mswinSQL": "N/A",
-                "mswinSQLWeb": "N/A"
-            },
             "us-east-1": {
                 "linux": "4.600",
                 "mswin": "4.931",
@@ -1067,13 +996,8 @@
             "us-gov-west-1": {
                 "linux": "5.520",
                 "mswin": "6.126",
+                "mswinSQL": "9.270",
                 "mswinSQLWeb": "6.339"
-            },
-            "us-west-1": {
-                "linux": "N/A",
-                "mswin": "N/A",
-                "mswinSQL": "N/A",
-                "mswinSQLWeb": "N/A"
             },
             "us-west-2": {
                 "linux": "4.600",
@@ -1106,9 +1030,7 @@
         "family": "Micro",
         "generation": "previous",
         "instance_type": "t1.micro",
-        "linux_virtualization_types": [
-            "PV"
-        ],
+        "linux_virtualization_types": [],
         "max_bandwidth": 0,
         "memory": 0.613,
         "network_performance": "Very Low",
@@ -1116,37 +1038,31 @@
             "ap-northeast-1": {
                 "linux": "0.026",
                 "mswin": "0.033",
-                "mswinSQL": "N/A",
                 "mswinSQLWeb": "0.077"
             },
             "ap-southeast-1": {
                 "linux": "0.020",
                 "mswin": "0.020",
-                "mswinSQL": "N/A",
                 "mswinSQLWeb": "0.075"
             },
             "ap-southeast-2": {
                 "linux": "0.020",
                 "mswin": "0.020",
-                "mswinSQL": "N/A",
                 "mswinSQLWeb": "0.075"
             },
             "eu-west-1": {
                 "linux": "0.020",
                 "mswin": "0.020",
-                "mswinSQL": "N/A",
                 "mswinSQLWeb": "0.075"
             },
             "sa-east-1": {
                 "linux": "0.027",
                 "mswin": "0.037",
-                "mswinSQL": "N/A",
                 "mswinSQLWeb": "0.077"
             },
             "us-east-1": {
                 "linux": "0.020",
                 "mswin": "0.020",
-                "mswinSQL": "N/A",
                 "mswinSQLWeb": "0.070"
             },
             "us-gov-west-1": {
@@ -1157,13 +1073,11 @@
             "us-west-1": {
                 "linux": "0.025",
                 "mswin": "0.035",
-                "mswinSQL": "N/A",
                 "mswinSQLWeb": "0.075"
             },
             "us-west-2": {
                 "linux": "0.020",
                 "mswin": "0.020",
-                "mswinSQL": "N/A",
                 "mswinSQLWeb": "0.070"
             }
         },
@@ -1404,6 +1318,83 @@
         "vCPU": 2,
         "vpc": {
             "ips_per_eni": 6,
+            "max_enis": 3
+        }
+    },
+    {
+        "ECU": 0,
+        "arch": [
+            "x86_64"
+        ],
+        "ebs_iops": 0,
+        "ebs_optimized": false,
+        "ebs_throughput": 0,
+        "enhanced_networking": false,
+        "family": "General purpose",
+        "generation": "current",
+        "instance_type": "t2.large",
+        "linux_virtualization_types": [
+            "HVM"
+        ],
+        "max_bandwidth": 0,
+        "memory": 8.0,
+        "network_performance": "Low to Moderate",
+        "pricing": {
+            "ap-northeast-1": {
+                "linux": "0.160",
+                "mswin": "0.190",
+                "mswinSQLWeb": "0.490"
+            },
+            "ap-southeast-1": {
+                "linux": "0.160",
+                "mswin": "0.190",
+                "mswinSQLWeb": "0.490"
+            },
+            "ap-southeast-2": {
+                "linux": "0.160",
+                "mswin": "0.190",
+                "mswinSQLWeb": "0.490"
+            },
+            "eu-central-1": {
+                "linux": "0.120",
+                "mswin": "0.150",
+                "mswinSQLWeb": "0.450"
+            },
+            "eu-west-1": {
+                "linux": "0.112",
+                "mswin": "0.142",
+                "mswinSQLWeb": "0.442"
+            },
+            "sa-east-1": {
+                "linux": "0.216",
+                "mswin": "0.246",
+                "mswinSQLWeb": "0.546"
+            },
+            "us-east-1": {
+                "linux": "0.104",
+                "mswin": "0.134",
+                "mswinSQLWeb": "0.434"
+            },
+            "us-gov-west-1": {
+                "linux": "0.124",
+                "mswin": "0.154",
+                "mswinSQLWeb": "0.454"
+            },
+            "us-west-1": {
+                "linux": "0.136",
+                "mswin": "0.166",
+                "mswinSQLWeb": "0.466"
+            },
+            "us-west-2": {
+                "linux": "0.104",
+                "mswin": "0.134",
+                "mswinSQLWeb": "0.434"
+            }
+        },
+        "storage": null,
+        "vCPU": 2,
+        "vpc": {
+            "ips_per_eni": 12,
             "max_enis": 3
         }
     },
@@ -2993,7 +2984,7 @@
         "generation": "current",
         "instance_type": "g2.2xlarge",
         "linux_virtualization_types": [
-            "HVM (Graphics)"
+            "HVM"
         ],
         "max_bandwidth": 125.0,
         "memory": 15.0,
@@ -3070,7 +3061,7 @@
         "generation": "current",
         "instance_type": "g2.8xlarge",
         "linux_virtualization_types": [
-            "HVM (Graphics)"
+            "HVM"
         ],
         "max_bandwidth": 0,
         "memory": 60.0,
