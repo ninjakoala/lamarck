@@ -203,7 +203,7 @@
                 "mswinSQLWeb": "0.435"
             },
             "eu-west-1": {
-                "linux": "0.190",
+                "linux": "0.19",
                 "mswin": "0.299",
                 "mswinSQL": "0.955",
                 "mswinSQLWeb": "0.435"
@@ -227,10 +227,10 @@
                 "mswinSQLWeb": "0.517"
             },
             "us-west-1": {
-                "linux": "0.190",
+                "linux": "0.19",
                 "mswin": "0.314",
                 "mswinSQL": "0.994",
-                "mswinSQLWeb": "0.470"
+                "mswinSQLWeb": "0.47"
             },
             "us-west-2": {
                 "linux": "0.175",
@@ -271,25 +271,25 @@
                 "linux": "0.486",
                 "mswin": "0.706",
                 "mswinSQL": "1.435",
-                "mswinSQLWeb": "0.830"
+                "mswinSQLWeb": "0.83"
             },
             "ap-southeast-1": {
                 "linux": "0.467",
                 "mswin": "0.747",
                 "mswinSQL": "1.362",
-                "mswinSQLWeb": "0.830"
+                "mswinSQLWeb": "0.83"
             },
             "ap-southeast-2": {
                 "linux": "0.467",
                 "mswin": "0.747",
                 "mswinSQL": "1.362",
-                "mswinSQLWeb": "0.830"
+                "mswinSQLWeb": "0.83"
             },
             "eu-west-1": {
                 "linux": "0.379",
                 "mswin": "0.598",
                 "mswinSQL": "1.362",
-                "mswinSQLWeb": "0.830"
+                "mswinSQLWeb": "0.83"
             },
             "sa-east-1": {
                 "linux": "0.467",
@@ -298,10 +298,10 @@
                 "mswinSQLWeb": "1.067"
             },
             "us-east-1": {
-                "linux": "0.350",
+                "linux": "0.35",
                 "mswin": "0.598",
                 "mswinSQL": "1.362",
-                "mswinSQLWeb": "0.830"
+                "mswinSQLWeb": "0.83"
             },
             "us-gov-west-1": {
                 "linux": "0.423",
@@ -316,10 +316,10 @@
                 "mswinSQLWeb": "0.899"
             },
             "us-west-2": {
-                "linux": "0.350",
+                "linux": "0.35",
                 "mswin": "0.598",
                 "mswinSQL": "1.362",
-                "mswinSQLWeb": "0.830"
+                "mswinSQLWeb": "0.83"
             }
         },
         "storage": {
@@ -354,22 +354,22 @@
             "ap-northeast-1": {
                 "linux": "0.158",
                 "mswin": "0.258",
-                "mswinSQLWeb": "0.310"
+                "mswinSQLWeb": "0.31"
             },
             "ap-southeast-1": {
                 "linux": "0.164",
                 "mswin": "0.266",
-                "mswinSQLWeb": "0.310"
+                "mswinSQLWeb": "0.31"
             },
             "ap-southeast-2": {
                 "linux": "0.164",
                 "mswin": "0.266",
-                "mswinSQLWeb": "0.310"
+                "mswinSQLWeb": "0.31"
             },
             "eu-west-1": {
                 "linux": "0.148",
-                "mswin": "0.210",
-                "mswinSQLWeb": "0.310"
+                "mswin": "0.21",
+                "mswinSQLWeb": "0.31"
             },
             "sa-east-1": {
                 "linux": "0.179",
@@ -377,9 +377,9 @@
                 "mswinSQLWeb": "0.369"
             },
             "us-east-1": {
-                "linux": "0.130",
-                "mswin": "0.210",
-                "mswinSQLWeb": "0.310"
+                "linux": "0.13",
+                "mswin": "0.21",
+                "mswinSQLWeb": "0.31"
             },
             "us-gov-west-1": {
                 "linux": "0.157",
@@ -392,9 +392,9 @@
                 "mswinSQLWeb": "0.329"
             },
             "us-west-2": {
-                "linux": "0.130",
-                "mswin": "0.210",
-                "mswinSQLWeb": "0.310"
+                "linux": "0.13",
+                "mswin": "0.21",
+                "mswinSQLWeb": "0.31"
             }
         },
         "storage": {
@@ -428,26 +428,26 @@
             "ap-northeast-1": {
                 "linux": "0.632",
                 "mswin": "1.032",
-                "mswinSQL": "2.210",
-                "mswinSQLWeb": "1.160"
+                "mswinSQL": "2.21",
+                "mswinSQLWeb": "1.16"
             },
             "ap-southeast-1": {
                 "linux": "0.655",
                 "mswin": "1.065",
                 "mswinSQL": "2.124",
-                "mswinSQLWeb": "1.160"
+                "mswinSQLWeb": "1.16"
             },
             "ap-southeast-2": {
                 "linux": "0.655",
                 "mswin": "1.065",
                 "mswinSQL": "2.124",
-                "mswinSQLWeb": "1.160"
+                "mswinSQLWeb": "1.16"
             },
             "eu-west-1": {
                 "linux": "0.592",
-                "mswin": "0.840",
+                "mswin": "0.84",
                 "mswinSQL": "2.124",
-                "mswinSQLWeb": "1.160"
+                "mswinSQLWeb": "1.16"
             },
             "sa-east-1": {
                 "linux": "0.718",
@@ -456,10 +456,10 @@
                 "mswinSQLWeb": "1.398"
             },
             "us-east-1": {
-                "linux": "0.520",
-                "mswin": "0.840",
+                "linux": "0.52",
+                "mswin": "0.84",
                 "mswinSQL": "2.124",
-                "mswinSQLWeb": "1.160"
+                "mswinSQLWeb": "1.16"
             },
             "us-gov-west-1": {
                 "linux": "0.628",
@@ -474,10 +474,10 @@
                 "mswinSQLWeb": "1.236"
             },
             "us-west-2": {
-                "linux": "0.520",
-                "mswin": "0.840",
+                "linux": "0.52",
+                "mswin": "0.84",
                 "mswinSQL": "2.124",
-                "mswinSQLWeb": "1.160"
+                "mswinSQLWeb": "1.16"
             }
         },
         "storage": {
@@ -515,27 +515,27 @@
                 "mswinSQLWeb": "3.124"
             },
             "eu-west-1": {
-                "linux": "2.250",
-                "mswin": "2.570",
-                "mswinSQL": "4.850",
+                "linux": "2.25",
+                "mswin": "2.57",
+                "mswinSQL": "4.85",
                 "mswinSQLWeb": "2.775"
             },
             "us-east-1": {
-                "linux": "2.000",
-                "mswin": "2.570",
-                "mswinSQL": "4.410",
+                "linux": "2",
+                "mswin": "2.57",
+                "mswinSQL": "4.41",
                 "mswinSQLWeb": "2.775"
             },
             "us-gov-west-1": {
-                "linux": "2.250",
-                "mswin": "2.570",
-                "mswinSQL": "4.900",
+                "linux": "2.25",
+                "mswin": "2.57",
+                "mswinSQL": "4.9",
                 "mswinSQLWeb": "2.775"
             },
             "us-west-2": {
-                "linux": "2.000",
-                "mswin": "2.570",
-                "mswinSQL": "4.410",
+                "linux": "2",
+                "mswin": "2.57",
+                "mswinSQL": "4.41",
                 "mswinSQLWeb": "2.775"
             }
         },
@@ -568,15 +568,15 @@
         "network_performance": "10 Gigabit",
         "pricing": {
             "eu-west-1": {
-                "linux": "2.360",
-                "mswin": "2.600",
-                "mswinSQL": "3.850",
+                "linux": "2.36",
+                "mswin": "2.6",
+                "mswinSQL": "3.85",
                 "mswinSQLWeb": "2.703"
             },
             "us-east-1": {
-                "linux": "2.100",
-                "mswin": "2.600",
-                "mswinSQL": "3.850",
+                "linux": "2.1",
+                "mswin": "2.6",
+                "mswinSQL": "3.85",
                 "mswinSQLWeb": "2.703"
             }
         },
@@ -653,7 +653,7 @@
             "us-west-1": {
                 "linux": "0.275",
                 "mswin": "0.375",
-                "mswinSQL": "1.140",
+                "mswinSQL": "1.14",
                 "mswinSQLWeb": "0.481"
             },
             "us-west-2": {
@@ -695,25 +695,25 @@
                 "linux": "0.575",
                 "mswin": "0.705",
                 "mswinSQL": "1.558",
-                "mswinSQLWeb": "0.850"
+                "mswinSQLWeb": "0.85"
             },
             "ap-southeast-1": {
                 "linux": "0.592",
                 "mswin": "0.742",
                 "mswinSQL": "1.654",
-                "mswinSQLWeb": "0.850"
+                "mswinSQLWeb": "0.85"
             },
             "ap-southeast-2": {
                 "linux": "0.592",
                 "mswin": "0.742",
                 "mswinSQL": "1.654",
-                "mswinSQLWeb": "0.850"
+                "mswinSQLWeb": "0.85"
             },
             "eu-west-1": {
-                "linux": "0.550",
-                "mswin": "0.690",
+                "linux": "0.55",
+                "mswin": "0.69",
                 "mswinSQL": "1.489",
-                "mswinSQLWeb": "0.850"
+                "mswinSQLWeb": "0.85"
             },
             "sa-east-1": {
                 "linux": "0.645",
@@ -722,10 +722,10 @@
                 "mswinSQLWeb": "1.205"
             },
             "us-east-1": {
-                "linux": "0.490",
-                "mswin": "0.690",
+                "linux": "0.49",
+                "mswin": "0.69",
                 "mswinSQL": "1.489",
-                "mswinSQLWeb": "0.850"
+                "mswinSQLWeb": "0.85"
             },
             "us-gov-west-1": {
                 "linux": "0.586",
@@ -734,16 +734,16 @@
                 "mswinSQLWeb": "1.026"
             },
             "us-west-1": {
-                "linux": "0.550",
-                "mswin": "0.750",
+                "linux": "0.55",
+                "mswin": "0.75",
                 "mswinSQL": "1.589",
                 "mswinSQLWeb": "0.922"
             },
             "us-west-2": {
-                "linux": "0.490",
-                "mswin": "0.690",
+                "linux": "0.49",
+                "mswin": "0.69",
                 "mswinSQL": "1.489",
-                "mswinSQLWeb": "0.850"
+                "mswinSQLWeb": "0.85"
             }
         },
         "storage": {
@@ -775,28 +775,28 @@
         "network_performance": "High",
         "pricing": {
             "ap-northeast-1": {
-                "linux": "1.150",
-                "mswin": "1.410",
+                "linux": "1.15",
+                "mswin": "1.41",
                 "mswinSQL": "3.116",
-                "mswinSQLWeb": "1.700"
+                "mswinSQLWeb": "1.7"
             },
             "ap-southeast-1": {
                 "linux": "1.183",
                 "mswin": "1.483",
                 "mswinSQL": "2.976",
-                "mswinSQLWeb": "1.700"
+                "mswinSQLWeb": "1.7"
             },
             "ap-southeast-2": {
                 "linux": "1.183",
                 "mswin": "1.483",
                 "mswinSQL": "2.976",
-                "mswinSQLWeb": "1.700"
+                "mswinSQLWeb": "1.7"
             },
             "eu-west-1": {
-                "linux": "1.100",
-                "mswin": "1.380",
+                "linux": "1.1",
+                "mswin": "1.38",
                 "mswinSQL": "2.976",
-                "mswinSQLWeb": "1.700"
+                "mswinSQLWeb": "1.7"
             },
             "sa-east-1": {
                 "linux": "1.291",
@@ -805,10 +805,10 @@
                 "mswinSQLWeb": "2.411"
             },
             "us-east-1": {
-                "linux": "0.980",
-                "mswin": "1.380",
+                "linux": "0.98",
+                "mswin": "1.38",
                 "mswinSQL": "2.976",
-                "mswinSQLWeb": "1.700"
+                "mswinSQLWeb": "1.7"
             },
             "us-gov-west-1": {
                 "linux": "1.171",
@@ -817,16 +817,16 @@
                 "mswinSQLWeb": "2.051"
             },
             "us-west-1": {
-                "linux": "1.100",
-                "mswin": "1.500",
+                "linux": "1.1",
+                "mswin": "1.5",
                 "mswinSQL": "3.178",
                 "mswinSQLWeb": "1.844"
             },
             "us-west-2": {
-                "linux": "0.980",
-                "mswin": "1.380",
+                "linux": "0.98",
+                "mswin": "1.38",
                 "mswinSQL": "2.976",
-                "mswinSQLWeb": "1.700"
+                "mswinSQLWeb": "1.7"
             }
         },
         "storage": {
@@ -859,26 +859,26 @@
         "pricing": {
             "ap-northeast-1": {
                 "linux": "4.105",
-                "mswin": "4.420",
+                "mswin": "4.42",
                 "mswinSQL": "7.676",
                 "mswinSQLWeb": "4.623"
             },
             "eu-west-1": {
-                "linux": "3.750",
+                "linux": "3.75",
                 "mswin": "3.831",
-                "mswinSQL": "7.250",
+                "mswinSQL": "7.25",
                 "mswinSQLWeb": "4.044"
             },
             "us-east-1": {
-                "linux": "3.500",
+                "linux": "3.5",
                 "mswin": "3.831",
-                "mswinSQL": "7.250",
+                "mswinSQL": "7.25",
                 "mswinSQLWeb": "4.044"
             },
             "us-west-2": {
-                "linux": "3.500",
+                "linux": "3.5",
                 "mswin": "3.831",
-                "mswinSQL": "7.250",
+                "mswinSQL": "7.25",
                 "mswinSQLWeb": "4.044"
             }
         },
@@ -917,22 +917,22 @@
                 "mswinSQLWeb": "4.084"
             },
             "eu-west-1": {
-                "linux": "3.100",
-                "mswin": "3.580",
+                "linux": "3.1",
+                "mswin": "3.58",
                 "mswinSQL": "4.607",
-                "mswinSQLWeb": "3.660"
+                "mswinSQLWeb": "3.66"
             },
             "us-east-1": {
-                "linux": "3.100",
-                "mswin": "3.580",
+                "linux": "3.1",
+                "mswin": "3.58",
                 "mswinSQL": "4.607",
-                "mswinSQLWeb": "3.660"
+                "mswinSQLWeb": "3.66"
             },
             "us-west-2": {
-                "linux": "3.100",
-                "mswin": "3.580",
+                "linux": "3.1",
+                "mswin": "3.58",
                 "mswinSQL": "4.607",
-                "mswinSQLWeb": "3.660"
+                "mswinSQLWeb": "3.66"
             }
         },
         "storage": {
@@ -964,45 +964,45 @@
         "network_performance": "10 Gigabit",
         "pricing": {
             "ap-northeast-1": {
-                "linux": "5.400",
+                "linux": "5.4",
                 "mswin": "5.714",
-                "mswinSQL": "8.970",
+                "mswinSQL": "8.97",
                 "mswinSQLWeb": "5.917"
             },
             "ap-southeast-1": {
-                "linux": "5.570",
+                "linux": "5.57",
                 "mswin": "5.901",
-                "mswinSQL": "9.320",
+                "mswinSQL": "9.32",
                 "mswinSQLWeb": "6.114"
             },
             "ap-southeast-2": {
-                "linux": "5.570",
+                "linux": "5.57",
                 "mswin": "5.901",
-                "mswinSQL": "9.320",
+                "mswinSQL": "9.32",
                 "mswinSQLWeb": "6.114"
             },
             "eu-west-1": {
-                "linux": "4.900",
+                "linux": "4.9",
                 "mswin": "4.931",
-                "mswinSQL": "8.350",
+                "mswinSQL": "8.35",
                 "mswinSQLWeb": "5.144"
             },
             "us-east-1": {
-                "linux": "4.600",
+                "linux": "4.6",
                 "mswin": "4.931",
-                "mswinSQL": "8.350",
+                "mswinSQL": "8.35",
                 "mswinSQLWeb": "5.144"
             },
             "us-gov-west-1": {
-                "linux": "5.520",
+                "linux": "5.52",
                 "mswin": "6.126",
-                "mswinSQL": "9.270",
+                "mswinSQL": "9.27",
                 "mswinSQLWeb": "6.339"
             },
             "us-west-2": {
-                "linux": "4.600",
+                "linux": "4.6",
                 "mswin": "4.931",
-                "mswinSQL": "8.350",
+                "mswinSQL": "8.35",
                 "mswinSQLWeb": "5.144"
             }
         },
@@ -1041,18 +1041,18 @@
                 "mswinSQLWeb": "0.077"
             },
             "ap-southeast-1": {
-                "linux": "0.020",
-                "mswin": "0.020",
+                "linux": "0.02",
+                "mswin": "0.02",
                 "mswinSQLWeb": "0.075"
             },
             "ap-southeast-2": {
-                "linux": "0.020",
-                "mswin": "0.020",
+                "linux": "0.02",
+                "mswin": "0.02",
                 "mswinSQLWeb": "0.075"
             },
             "eu-west-1": {
-                "linux": "0.020",
-                "mswin": "0.020",
+                "linux": "0.02",
+                "mswin": "0.02",
                 "mswinSQLWeb": "0.075"
             },
             "sa-east-1": {
@@ -1061,9 +1061,9 @@
                 "mswinSQLWeb": "0.077"
             },
             "us-east-1": {
-                "linux": "0.020",
-                "mswin": "0.020",
-                "mswinSQLWeb": "0.070"
+                "linux": "0.02",
+                "mswin": "0.02",
+                "mswinSQLWeb": "0.07"
             },
             "us-gov-west-1": {
                 "linux": "0.024",
@@ -1076,9 +1076,9 @@
                 "mswinSQLWeb": "0.075"
             },
             "us-west-2": {
-                "linux": "0.020",
-                "mswin": "0.020",
-                "mswinSQLWeb": "0.070"
+                "linux": "0.02",
+                "mswin": "0.02",
+                "mswinSQLWeb": "0.07"
             }
         },
         "storage": null,
@@ -1109,24 +1109,24 @@
         "network_performance": "Low to Moderate",
         "pricing": {
             "ap-northeast-1": {
-                "linux": "0.020",
+                "linux": "0.02",
                 "mswin": "0.025",
                 "mswinSQLWeb": "0.075"
             },
             "ap-southeast-1": {
-                "linux": "0.020",
-                "mswin": "0.020",
+                "linux": "0.02",
+                "mswin": "0.02",
                 "mswinSQLWeb": "0.075"
             },
             "ap-southeast-2": {
-                "linux": "0.020",
-                "mswin": "0.020",
+                "linux": "0.02",
+                "mswin": "0.02",
                 "mswinSQLWeb": "0.075"
             },
             "eu-central-1": {
                 "linux": "0.015",
-                "mswin": "0.020",
-                "mswinSQLWeb": "0.070"
+                "mswin": "0.02",
+                "mswinSQLWeb": "0.07"
             },
             "eu-west-1": {
                 "linux": "0.014",
@@ -1187,24 +1187,24 @@
         "network_performance": "Low to Moderate",
         "pricing": {
             "ap-northeast-1": {
-                "linux": "0.040",
-                "mswin": "0.050",
-                "mswinSQLWeb": "0.150"
+                "linux": "0.04",
+                "mswin": "0.05",
+                "mswinSQLWeb": "0.15"
             },
             "ap-southeast-1": {
-                "linux": "0.040",
-                "mswin": "0.050",
-                "mswinSQLWeb": "0.150"
+                "linux": "0.04",
+                "mswin": "0.05",
+                "mswinSQLWeb": "0.15"
             },
             "ap-southeast-2": {
-                "linux": "0.040",
-                "mswin": "0.050",
-                "mswinSQLWeb": "0.150"
+                "linux": "0.04",
+                "mswin": "0.05",
+                "mswinSQLWeb": "0.15"
             },
             "eu-central-1": {
-                "linux": "0.030",
-                "mswin": "0.040",
-                "mswinSQLWeb": "0.140"
+                "linux": "0.03",
+                "mswin": "0.04",
+                "mswinSQLWeb": "0.14"
             },
             "eu-west-1": {
                 "linux": "0.028",
@@ -1264,24 +1264,24 @@
         "network_performance": "Low to Moderate",
         "pricing": {
             "ap-northeast-1": {
-                "linux": "0.080",
-                "mswin": "0.100",
-                "mswinSQLWeb": "0.300"
+                "linux": "0.08",
+                "mswin": "0.1",
+                "mswinSQLWeb": "0.3"
             },
             "ap-southeast-1": {
-                "linux": "0.080",
-                "mswin": "0.100",
-                "mswinSQLWeb": "0.300"
+                "linux": "0.08",
+                "mswin": "0.1",
+                "mswinSQLWeb": "0.3"
             },
             "ap-southeast-2": {
-                "linux": "0.080",
-                "mswin": "0.100",
-                "mswinSQLWeb": "0.300"
+                "linux": "0.08",
+                "mswin": "0.1",
+                "mswinSQLWeb": "0.3"
             },
             "eu-central-1": {
-                "linux": "0.060",
-                "mswin": "0.080",
-                "mswinSQLWeb": "0.280"
+                "linux": "0.06",
+                "mswin": "0.08",
+                "mswinSQLWeb": "0.28"
             },
             "eu-west-1": {
                 "linux": "0.056",
@@ -1341,24 +1341,24 @@
         "network_performance": "Low to Moderate",
         "pricing": {
             "ap-northeast-1": {
-                "linux": "0.160",
-                "mswin": "0.190",
-                "mswinSQLWeb": "0.490"
+                "linux": "0.16",
+                "mswin": "0.19",
+                "mswinSQLWeb": "0.49"
             },
             "ap-southeast-1": {
-                "linux": "0.160",
-                "mswin": "0.190",
-                "mswinSQLWeb": "0.490"
+                "linux": "0.16",
+                "mswin": "0.19",
+                "mswinSQLWeb": "0.49"
             },
             "ap-southeast-2": {
-                "linux": "0.160",
-                "mswin": "0.190",
-                "mswinSQLWeb": "0.490"
+                "linux": "0.16",
+                "mswin": "0.19",
+                "mswinSQLWeb": "0.49"
             },
             "eu-central-1": {
-                "linux": "0.120",
-                "mswin": "0.150",
-                "mswinSQLWeb": "0.450"
+                "linux": "0.12",
+                "mswin": "0.15",
+                "mswinSQLWeb": "0.45"
             },
             "eu-west-1": {
                 "linux": "0.112",
@@ -1436,7 +1436,7 @@
                 "mswinSQLWeb": "0.312"
             },
             "eu-central-1": {
-                "linux": "0.150",
+                "linux": "0.15",
                 "mswin": "0.276",
                 "mswinSQL": "0.951",
                 "mswinSQLWeb": "0.285"
@@ -1444,7 +1444,7 @@
             "eu-west-1": {
                 "linux": "0.139",
                 "mswin": "0.251",
-                "mswinSQL": "0.940",
+                "mswinSQL": "0.94",
                 "mswinSQLWeb": "0.274"
             },
             "us-east-1": {
@@ -1511,7 +1511,7 @@
                 "mswinSQLWeb": "0.541"
             },
             "eu-central-1": {
-                "linux": "0.300",
+                "linux": "0.3",
                 "mswin": "0.552",
                 "mswinSQL": "1.171",
                 "mswinSQLWeb": "0.487"
@@ -1576,17 +1576,17 @@
             "ap-southeast-1": {
                 "linux": "0.748",
                 "mswin": "1.252",
-                "mswinSQL": "2.590",
+                "mswinSQL": "2.59",
                 "mswinSQLWeb": "1.144"
             },
             "ap-southeast-2": {
                 "linux": "0.708",
                 "mswin": "1.212",
-                "mswinSQL": "2.550",
+                "mswinSQL": "2.55",
                 "mswinSQLWeb": "1.104"
             },
             "eu-central-1": {
-                "linux": "0.600",
+                "linux": "0.6",
                 "mswin": "1.104",
                 "mswinSQL": "2.442",
                 "mswinSQLWeb": "0.996"
@@ -1601,19 +1601,19 @@
                 "linux": "0.504",
                 "mswin": "1.008",
                 "mswinSQL": "2.346",
-                "mswinSQLWeb": "0.900"
+                "mswinSQLWeb": "0.9"
             },
             "us-west-1": {
                 "linux": "0.588",
                 "mswin": "1.092",
-                "mswinSQL": "2.430",
+                "mswinSQL": "2.43",
                 "mswinSQLWeb": "0.984"
             },
             "us-west-2": {
                 "linux": "0.504",
                 "mswin": "1.008",
                 "mswinSQL": "2.346",
-                "mswinSQLWeb": "0.900"
+                "mswinSQLWeb": "0.9"
             }
         },
         "storage": null,
@@ -1645,8 +1645,8 @@
             "ap-northeast-1": {
                 "linux": "1.464",
                 "mswin": "2.256",
-                "mswinSQL": "5.100",
-                "mswinSQLWeb": "2.300"
+                "mswinSQL": "5.1",
+                "mswinSQLWeb": "2.3"
             },
             "ap-southeast-1": {
                 "linux": "1.496",
@@ -1661,7 +1661,7 @@
                 "mswinSQLWeb": "2.252"
             },
             "eu-central-1": {
-                "linux": "1.200",
+                "linux": "1.2",
                 "mswin": "2.208",
                 "mswinSQL": "4.836",
                 "mswinSQLWeb": "2.036"
@@ -1718,50 +1718,50 @@
         "network_performance": "10 Gigabit",
         "pricing": {
             "ap-northeast-1": {
-                "linux": "3.660",
-                "mswin": "5.640",
+                "linux": "3.66",
+                "mswin": "5.64",
                 "mswinSQL": "12.945",
                 "mswinSQLWeb": "5.722"
             },
             "ap-southeast-1": {
-                "linux": "3.740",
-                "mswin": "6.260",
+                "linux": "3.74",
+                "mswin": "6.26",
                 "mswinSQL": "13.025",
                 "mswinSQLWeb": "5.802"
             },
             "ap-southeast-2": {
-                "linux": "3.540",
-                "mswin": "6.060",
+                "linux": "3.54",
+                "mswin": "6.06",
                 "mswinSQL": "12.825",
                 "mswinSQLWeb": "5.602"
             },
             "eu-central-1": {
-                "linux": "3.000",
-                "mswin": "5.520",
+                "linux": "3",
+                "mswin": "5.52",
                 "mswinSQL": "12.285",
                 "mswinSQLWeb": "5.062"
             },
             "eu-west-1": {
-                "linux": "2.780",
-                "mswin": "5.020",
+                "linux": "2.78",
+                "mswin": "5.02",
                 "mswinSQL": "12.065",
                 "mswinSQLWeb": "4.842"
             },
             "us-east-1": {
-                "linux": "2.520",
-                "mswin": "5.040",
+                "linux": "2.52",
+                "mswin": "5.04",
                 "mswinSQL": "11.805",
                 "mswinSQLWeb": "4.582"
             },
             "us-west-1": {
-                "linux": "2.940",
-                "mswin": "5.460",
+                "linux": "2.94",
+                "mswin": "5.46",
                 "mswinSQL": "12.225",
                 "mswinSQLWeb": "5.002"
             },
             "us-west-2": {
-                "linux": "2.520",
-                "mswin": "5.040",
+                "linux": "2.52",
+                "mswin": "5.04",
                 "mswinSQL": "11.805",
                 "mswinSQLWeb": "4.582"
             }
@@ -1830,7 +1830,7 @@
             },
             "us-east-1": {
                 "linux": "0.067",
-                "mswin": "0.130",
+                "mswin": "0.13",
                 "mswinSQL": "0.353",
                 "mswinSQLWeb": "0.184"
             },
@@ -1841,13 +1841,13 @@
             },
             "us-west-1": {
                 "linux": "0.077",
-                "mswin": "0.140",
+                "mswin": "0.14",
                 "mswinSQL": "0.374",
                 "mswinSQLWeb": "0.201"
             },
             "us-west-2": {
                 "linux": "0.067",
-                "mswin": "0.130",
+                "mswin": "0.13",
                 "mswinSQL": "0.353",
                 "mswinSQLWeb": "0.184"
             }
@@ -1904,7 +1904,7 @@
             "eu-central-1": {
                 "linux": "0.158",
                 "mswin": "0.284",
-                "mswinSQL": "1.250",
+                "mswinSQL": "1.25",
                 "mswinSQLWeb": "0.466"
             },
             "eu-west-1": {
@@ -1914,7 +1914,7 @@
                 "mswinSQLWeb": "0.366"
             },
             "sa-east-1": {
-                "linux": "0.190",
+                "linux": "0.19",
                 "mswin": "0.316",
                 "mswinSQL": "0.837",
                 "mswinSQLWeb": "0.469"
@@ -1933,7 +1933,7 @@
             },
             "us-west-1": {
                 "linux": "0.154",
-                "mswin": "0.280",
+                "mswin": "0.28",
                 "mswinSQL": "0.747",
                 "mswinSQLWeb": "0.401"
             },
@@ -1984,13 +1984,13 @@
             "ap-southeast-1": {
                 "linux": "0.392",
                 "mswin": "0.644",
-                "mswinSQL": "1.280",
+                "mswinSQL": "1.28",
                 "mswinSQLWeb": "0.748"
             },
             "ap-southeast-2": {
                 "linux": "0.372",
                 "mswin": "0.624",
-                "mswinSQL": "1.260",
+                "mswinSQL": "1.26",
                 "mswinSQLWeb": "0.728"
             },
             "eu-central-1": {
@@ -2025,7 +2025,7 @@
             },
             "us-west-1": {
                 "linux": "0.308",
-                "mswin": "0.560",
+                "mswin": "0.56",
                 "mswinSQL": "1.345",
                 "mswinSQLWeb": "0.803"
             },
@@ -2068,7 +2068,7 @@
         "network_performance": "High",
         "pricing": {
             "ap-northeast-1": {
-                "linux": "0.770",
+                "linux": "0.77",
                 "mswin": "1.166",
                 "mswinSQL": "2.665",
                 "mswinSQLWeb": "1.456"
@@ -2076,7 +2076,7 @@
             "ap-southeast-1": {
                 "linux": "0.784",
                 "mswin": "1.288",
-                "mswinSQL": "2.560",
+                "mswinSQL": "2.56",
                 "mswinSQLWeb": "1.496"
             },
             "ap-southeast-2": {
@@ -2117,7 +2117,7 @@
             },
             "us-west-1": {
                 "linux": "0.616",
-                "mswin": "1.120",
+                "mswin": "1.12",
                 "mswinSQL": "2.689",
                 "mswinSQLWeb": "1.606"
             },
@@ -2159,16 +2159,16 @@
         "network_performance": "Moderate",
         "pricing": {
             "ap-northeast-1": {
-                "linux": "0.140",
-                "mswin": "0.240",
-                "mswinSQL": "1.440",
+                "linux": "0.14",
+                "mswin": "0.24",
+                "mswinSQL": "1.44",
                 "mswinSQLWeb": "0.448"
             },
             "ap-southeast-1": {
                 "linux": "0.152",
                 "mswin": "0.252",
                 "mswinSQL": "1.452",
-                "mswinSQLWeb": "0.460"
+                "mswinSQLWeb": "0.46"
             },
             "ap-southeast-2": {
                 "linux": "0.144",
@@ -2189,9 +2189,9 @@
                 "mswinSQLWeb": "0.433"
             },
             "us-east-1": {
-                "linux": "0.110",
+                "linux": "0.11",
                 "mswin": "0.193",
-                "mswinSQL": "1.410",
+                "mswinSQL": "1.41",
                 "mswinSQLWeb": "0.418"
             },
             "us-west-1": {
@@ -2201,9 +2201,9 @@
                 "mswinSQLWeb": "0.446"
             },
             "us-west-2": {
-                "linux": "0.110",
+                "linux": "0.11",
                 "mswin": "0.193",
-                "mswinSQL": "1.410",
+                "mswinSQL": "1.41",
                 "mswinSQLWeb": "0.418"
             }
         },
@@ -2264,7 +2264,7 @@
                 "mswinSQLWeb": "0.818"
             },
             "us-east-1": {
-                "linux": "0.220",
+                "linux": "0.22",
                 "mswin": "0.386",
                 "mswinSQL": "1.683",
                 "mswinSQLWeb": "0.787"
@@ -2276,7 +2276,7 @@
                 "mswinSQLWeb": "0.843"
             },
             "us-west-2": {
-                "linux": "0.220",
+                "linux": "0.22",
                 "mswin": "0.386",
                 "mswinSQL": "1.683",
                 "mswinSQLWeb": "0.787"
@@ -2471,16 +2471,16 @@
                 "mswinSQLWeb": "4.942"
             },
             "ap-southeast-2": {
-                "linux": "2.310",
+                "linux": "2.31",
                 "mswin": "3.904",
-                "mswinSQL": "13.120",
-                "mswinSQLWeb": "4.820"
+                "mswinSQL": "13.12",
+                "mswinSQLWeb": "4.82"
             },
             "eu-central-1": {
-                "linux": "2.250",
+                "linux": "2.25",
                 "mswin": "3.578",
-                "mswinSQL": "13.060",
-                "mswinSQLWeb": "4.760"
+                "mswinSQL": "13.06",
+                "mswinSQLWeb": "4.76"
             },
             "eu-west-1": {
                 "linux": "2.006",
@@ -2558,7 +2558,7 @@
                 "mswinSQLWeb": "0.437"
             },
             "eu-west-1": {
-                "linux": "0.120",
+                "linux": "0.12",
                 "mswin": "0.188",
                 "mswinSQL": "0.561",
                 "mswinSQLWeb": "0.271"
@@ -2580,7 +2580,7 @@
                 "mswinSQLWeb": "0.292"
             },
             "us-west-1": {
-                "linux": "0.120",
+                "linux": "0.12",
                 "mswin": "0.188",
                 "mswinSQL": "0.561",
                 "mswinSQLWeb": "0.271"
@@ -2660,7 +2660,7 @@
                 "mswinSQLWeb": "0.657"
             },
             "us-east-1": {
-                "linux": "0.210",
+                "linux": "0.21",
                 "mswin": "0.376",
                 "mswinSQL": "1.066",
                 "mswinSQLWeb": "0.542"
@@ -2678,7 +2678,7 @@
                 "mswinSQLWeb": "0.542"
             },
             "us-west-2": {
-                "linux": "0.210",
+                "linux": "0.21",
                 "mswin": "0.376",
                 "mswinSQL": "1.066",
                 "mswinSQLWeb": "0.542"
@@ -2746,13 +2746,13 @@
                 "mswinSQLWeb": "1.083"
             },
             "sa-east-1": {
-                "linux": "0.650",
+                "linux": "0.65",
                 "mswin": "0.982",
                 "mswinSQL": "2.587",
                 "mswinSQLWeb": "1.313"
             },
             "us-east-1": {
-                "linux": "0.420",
+                "linux": "0.42",
                 "mswin": "0.752",
                 "mswinSQL": "2.131",
                 "mswinSQLWeb": "1.083"
@@ -2770,7 +2770,7 @@
                 "mswinSQLWeb": "1.083"
             },
             "us-west-2": {
-                "linux": "0.420",
+                "linux": "0.42",
                 "mswin": "0.752",
                 "mswinSQL": "2.131",
                 "mswinSQLWeb": "1.083"
@@ -2838,13 +2838,13 @@
                 "mswinSQLWeb": "2.166"
             },
             "sa-east-1": {
-                "linux": "1.300",
+                "linux": "1.3",
                 "mswin": "1.964",
                 "mswinSQL": "5.174",
                 "mswinSQLWeb": "2.626"
             },
             "us-east-1": {
-                "linux": "0.840",
+                "linux": "0.84",
                 "mswin": "1.504",
                 "mswinSQL": "4.262",
                 "mswinSQLWeb": "2.166"
@@ -2852,7 +2852,7 @@
             "us-gov-west-1": {
                 "linux": "1.008",
                 "mswin": "1.672",
-                "mswinSQL": "4.430",
+                "mswinSQL": "4.43",
                 "mswinSQLWeb": "2.334"
             },
             "us-west-1": {
@@ -2862,7 +2862,7 @@
                 "mswinSQLWeb": "2.166"
             },
             "us-west-2": {
-                "linux": "0.840",
+                "linux": "0.84",
                 "mswin": "1.504",
                 "mswinSQL": "4.262",
                 "mswinSQLWeb": "2.166"
@@ -2930,13 +2930,13 @@
                 "mswinSQLWeb": "4.332"
             },
             "sa-east-1": {
-                "linux": "2.600",
+                "linux": "2.6",
                 "mswin": "3.928",
                 "mswinSQL": "10.347",
                 "mswinSQLWeb": "5.252"
             },
             "us-east-1": {
-                "linux": "1.680",
+                "linux": "1.68",
                 "mswin": "3.008",
                 "mswinSQL": "8.523",
                 "mswinSQLWeb": "4.332"
@@ -2954,7 +2954,7 @@
                 "mswinSQLWeb": "4.332"
             },
             "us-west-2": {
-                "linux": "1.680",
+                "linux": "1.68",
                 "mswin": "3.008",
                 "mswinSQL": "8.523",
                 "mswinSQLWeb": "4.332"
@@ -2992,13 +2992,13 @@
         "pricing": {
             "ap-northeast-1": {
                 "linux": "0.898",
-                "mswin": "1.010",
+                "mswin": "1.01",
                 "mswinSQL": "3.913",
-                "mswinSQLWeb": "1.190"
+                "mswinSQLWeb": "1.19"
             },
             "ap-southeast-1": {
-                "linux": "1.000",
-                "mswin": "1.160",
+                "linux": "1",
+                "mswin": "1.16",
                 "mswinSQL": "4.166",
                 "mswinSQLWeb": "1.307"
             },
@@ -3019,7 +3019,7 @@
                 "mswinSQLWeb": "0.957"
             },
             "us-east-1": {
-                "linux": "0.650",
+                "linux": "0.65",
                 "mswin": "0.767",
                 "mswinSQL": "3.816",
                 "mswinSQLWeb": "0.957"
@@ -3031,7 +3031,7 @@
                 "mswinSQLWeb": "1.009"
             },
             "us-west-2": {
-                "linux": "0.650",
+                "linux": "0.65",
                 "mswin": "0.767",
                 "mswinSQL": "3.816",
                 "mswinSQLWeb": "0.957"
@@ -3069,15 +3069,15 @@
         "pricing": {
             "ap-northeast-1": {
                 "linux": "3.592",
-                "mswin": "3.870"
+                "mswin": "3.87"
             },
             "ap-southeast-1": {
-                "linux": "4.000",
+                "linux": "4",
                 "mswin": "4.278"
             },
             "ap-southeast-2": {
                 "linux": "3.592",
-                "mswin": "3.870"
+                "mswin": "3.87"
             },
             "eu-central-1": {
                 "linux": "3.088",
@@ -3088,7 +3088,7 @@
                 "mswin": "3.086"
             },
             "us-east-1": {
-                "linux": "2.600",
+                "linux": "2.6",
                 "mswin": "2.878"
             },
             "us-west-1": {
@@ -3096,7 +3096,7 @@
                 "mswin": "3.086"
             },
             "us-west-2": {
-                "linux": "2.600",
+                "linux": "2.6",
                 "mswin": "2.878"
             }
         },
@@ -3131,56 +3131,56 @@
         "network_performance": "Moderate",
         "pricing": {
             "ap-northeast-1": {
-                "linux": "0.210",
-                "mswin": "0.310",
+                "linux": "0.21",
+                "mswin": "0.31",
                 "mswinSQL": "0.971",
                 "mswinSQLWeb": "0.411"
             },
             "ap-southeast-1": {
-                "linux": "0.210",
+                "linux": "0.21",
                 "mswin": "0.323",
-                "mswinSQL": "0.990",
-                "mswinSQLWeb": "0.430"
+                "mswinSQL": "0.99",
+                "mswinSQLWeb": "0.43"
             },
             "ap-southeast-2": {
-                "linux": "0.210",
+                "linux": "0.21",
                 "mswin": "0.323",
-                "mswinSQL": "0.990",
-                "mswinSQLWeb": "0.430"
+                "mswinSQL": "0.99",
+                "mswinSQLWeb": "0.43"
             },
             "eu-central-1": {
-                "linux": "0.210",
+                "linux": "0.21",
                 "mswin": "0.335",
                 "mswinSQL": "1.302",
                 "mswinSQLWeb": "0.518"
             },
             "eu-west-1": {
                 "linux": "0.195",
-                "mswin": "0.300",
+                "mswin": "0.3",
                 "mswinSQL": "0.955",
                 "mswinSQLWeb": "0.395"
             },
             "us-east-1": {
                 "linux": "0.175",
-                "mswin": "0.300",
+                "mswin": "0.3",
                 "mswinSQL": "0.955",
                 "mswinSQLWeb": "0.395"
             },
             "us-gov-west-1": {
-                "linux": "0.210",
+                "linux": "0.21",
                 "mswin": "0.335",
-                "mswinSQL": "0.990",
-                "mswinSQLWeb": "0.430"
+                "mswinSQL": "0.99",
+                "mswinSQLWeb": "0.43"
             },
             "us-west-1": {
                 "linux": "0.195",
-                "mswin": "0.330",
+                "mswin": "0.33",
                 "mswinSQL": "0.984",
                 "mswinSQLWeb": "0.424"
             },
             "us-west-2": {
                 "linux": "0.175",
-                "mswin": "0.300",
+                "mswin": "0.3",
                 "mswinSQL": "0.955",
                 "mswinSQLWeb": "0.395"
             }
@@ -3216,19 +3216,19 @@
         "network_performance": "Moderate",
         "pricing": {
             "ap-northeast-1": {
-                "linux": "0.420",
-                "mswin": "0.620",
+                "linux": "0.42",
+                "mswin": "0.62",
                 "mswinSQL": "1.448",
                 "mswinSQLWeb": "0.808"
             },
             "ap-southeast-1": {
-                "linux": "0.420",
+                "linux": "0.42",
                 "mswin": "0.646",
                 "mswinSQL": "1.487",
                 "mswinSQLWeb": "0.847"
             },
             "ap-southeast-2": {
-                "linux": "0.420",
+                "linux": "0.42",
                 "mswin": "0.646",
                 "mswinSQL": "1.487",
                 "mswinSQLWeb": "0.847"
@@ -3240,32 +3240,32 @@
                 "mswinSQLWeb": "0.988"
             },
             "eu-west-1": {
-                "linux": "0.390",
-                "mswin": "0.600",
+                "linux": "0.39",
+                "mswin": "0.6",
                 "mswinSQL": "1.395",
                 "mswinSQLWeb": "0.755"
             },
             "us-east-1": {
-                "linux": "0.350",
-                "mswin": "0.600",
+                "linux": "0.35",
+                "mswin": "0.6",
                 "mswinSQL": "1.395",
                 "mswinSQLWeb": "0.755"
             },
             "us-gov-west-1": {
-                "linux": "0.420",
-                "mswin": "0.670",
+                "linux": "0.42",
+                "mswin": "0.67",
                 "mswinSQL": "1.465",
                 "mswinSQLWeb": "0.825"
             },
             "us-west-1": {
-                "linux": "0.390",
+                "linux": "0.39",
                 "mswin": "0.652",
                 "mswinSQL": "1.446",
                 "mswinSQLWeb": "0.806"
             },
             "us-west-2": {
-                "linux": "0.350",
-                "mswin": "0.600",
+                "linux": "0.35",
+                "mswin": "0.6",
                 "mswinSQL": "1.395",
                 "mswinSQLWeb": "0.755"
             }
@@ -3301,19 +3301,19 @@
         "network_performance": "High",
         "pricing": {
             "ap-northeast-1": {
-                "linux": "0.840",
+                "linux": "0.84",
                 "mswin": "1.219",
                 "mswinSQL": "2.914",
-                "mswinSQLWeb": "1.660"
+                "mswinSQLWeb": "1.66"
             },
             "ap-southeast-1": {
-                "linux": "0.840",
+                "linux": "0.84",
                 "mswin": "1.292",
                 "mswinSQL": "2.956",
                 "mswinSQLWeb": "1.685"
             },
             "ap-southeast-2": {
-                "linux": "0.840",
+                "linux": "0.84",
                 "mswin": "1.292",
                 "mswinSQL": "2.956",
                 "mswinSQLWeb": "1.685"
@@ -3325,32 +3325,32 @@
                 "mswinSQLWeb": "2.039"
             },
             "eu-west-1": {
-                "linux": "0.780",
-                "mswin": "1.080",
+                "linux": "0.78",
+                "mswin": "1.08",
                 "mswinSQL": "2.775",
                 "mswinSQLWeb": "1.555"
             },
             "us-east-1": {
-                "linux": "0.700",
-                "mswin": "1.080",
+                "linux": "0.7",
+                "mswin": "1.08",
                 "mswinSQL": "2.775",
                 "mswinSQLWeb": "1.555"
             },
             "us-gov-west-1": {
-                "linux": "0.840",
-                "mswin": "1.220",
+                "linux": "0.84",
+                "mswin": "1.22",
                 "mswinSQL": "2.915",
                 "mswinSQLWeb": "1.695"
             },
             "us-west-1": {
-                "linux": "0.780",
+                "linux": "0.78",
                 "mswin": "1.173",
                 "mswinSQL": "2.868",
                 "mswinSQLWeb": "1.648"
             },
             "us-west-2": {
-                "linux": "0.700",
-                "mswin": "1.080",
+                "linux": "0.7",
+                "mswin": "1.08",
                 "mswinSQL": "2.775",
                 "mswinSQLWeb": "1.555"
             }
@@ -3386,19 +3386,19 @@
         "network_performance": "High",
         "pricing": {
             "ap-northeast-1": {
-                "linux": "1.680",
+                "linux": "1.68",
                 "mswin": "2.276",
                 "mswinSQL": "4.987",
                 "mswinSQLWeb": "2.697"
             },
             "ap-southeast-1": {
-                "linux": "1.680",
+                "linux": "1.68",
                 "mswin": "2.447",
                 "mswinSQL": "5.157",
                 "mswinSQLWeb": "2.867"
             },
             "ap-southeast-2": {
-                "linux": "1.680",
+                "linux": "1.68",
                 "mswin": "2.447",
                 "mswinSQL": "5.157",
                 "mswinSQLWeb": "2.867"
@@ -3410,31 +3410,37 @@
                 "mswinSQLWeb": "3.035"
             },
             "eu-west-1": {
-                "linux": "1.560",
+                "linux": "1.56",
                 "mswin": "1.944",
                 "mswinSQL": "4.655",
                 "mswinSQLWeb": "2.365"
             },
+            "sa-east-1": {
+                "linux": "2.946",
+                "mswin": "3.394",
+                "mswinSQL": "6.582",
+                "mswinSQLWeb": "3.786"
+            },
             "us-east-1": {
-                "linux": "1.400",
+                "linux": "1.4",
                 "mswin": "1.944",
                 "mswinSQL": "4.655",
                 "mswinSQLWeb": "2.365"
             },
             "us-gov-west-1": {
-                "linux": "1.680",
+                "linux": "1.68",
                 "mswin": "2.224",
                 "mswinSQL": "4.935",
                 "mswinSQLWeb": "2.645"
             },
             "us-west-1": {
-                "linux": "1.560",
+                "linux": "1.56",
                 "mswin": "2.111",
                 "mswinSQL": "4.822",
                 "mswinSQLWeb": "2.532"
             },
             "us-west-2": {
-                "linux": "1.400",
+                "linux": "1.4",
                 "mswin": "1.944",
                 "mswinSQL": "4.655",
                 "mswinSQLWeb": "2.365"
@@ -3471,20 +3477,20 @@
         "network_performance": "10 Gigabit",
         "pricing": {
             "ap-northeast-1": {
-                "linux": "3.360",
-                "mswin": "4.250",
+                "linux": "3.36",
+                "mswin": "4.25",
                 "mswinSQL": "9.505",
                 "mswinSQLWeb": "4.745"
             },
             "ap-southeast-1": {
-                "linux": "3.360",
-                "mswin": "4.600",
+                "linux": "3.36",
+                "mswin": "4.6",
                 "mswinSQL": "9.855",
                 "mswinSQLWeb": "5.095"
             },
             "ap-southeast-2": {
-                "linux": "3.360",
-                "mswin": "4.600",
+                "linux": "3.36",
+                "mswin": "4.6",
                 "mswinSQL": "9.855",
                 "mswinSQLWeb": "5.095"
             },
@@ -3495,32 +3501,38 @@
                 "mswinSQLWeb": "5.042"
             },
             "eu-west-1": {
-                "linux": "3.120",
-                "mswin": "3.500",
+                "linux": "3.12",
+                "mswin": "3.5",
                 "mswinSQL": "8.755",
                 "mswinSQLWeb": "3.995"
             },
+            "sa-east-1": {
+                "linux": "5.892",
+                "mswin": "6.788",
+                "mswinSQL": "15.631",
+                "mswinSQLWeb": "8.052"
+            },
             "us-east-1": {
-                "linux": "2.800",
-                "mswin": "3.500",
+                "linux": "2.8",
+                "mswin": "3.5",
                 "mswinSQL": "8.755",
                 "mswinSQLWeb": "3.995"
             },
             "us-gov-west-1": {
-                "linux": "3.360",
-                "mswin": "4.060",
+                "linux": "3.36",
+                "mswin": "4.06",
                 "mswinSQL": "9.315",
                 "mswinSQLWeb": "4.555"
             },
             "us-west-1": {
-                "linux": "3.120",
-                "mswin": "3.800",
+                "linux": "3.12",
+                "mswin": "3.8",
                 "mswinSQL": "9.055",
                 "mswinSQLWeb": "4.295"
             },
             "us-west-2": {
-                "linux": "2.800",
-                "mswin": "3.500",
+                "linux": "2.8",
+                "mswin": "3.5",
                 "mswinSQL": "8.755",
                 "mswinSQLWeb": "3.995"
             }
@@ -3559,7 +3571,7 @@
                 "linux": "1.001",
                 "mswin": "1.113",
                 "mswinSQL": "2.026",
-                "mswinSQLWeb": "1.230"
+                "mswinSQLWeb": "1.23"
             },
             "ap-southeast-1": {
                 "linux": "1.018",
@@ -3577,18 +3589,18 @@
                 "linux": "1.013",
                 "mswin": "1.133",
                 "mswinSQL": "2.476",
-                "mswinSQLWeb": "1.580"
+                "mswinSQLWeb": "1.58"
             },
             "eu-west-1": {
                 "linux": "0.938",
                 "mswin": "0.973",
-                "mswinSQL": "1.230",
+                "mswinSQL": "1.23",
                 "mswinSQLWeb": "0.993"
             },
             "us-east-1": {
                 "linux": "0.853",
                 "mswin": "0.973",
-                "mswinSQL": "1.230",
+                "mswinSQL": "1.23",
                 "mswinSQLWeb": "0.993"
             },
             "us-gov-west-1": {
@@ -3606,7 +3618,7 @@
             "us-west-2": {
                 "linux": "0.853",
                 "mswin": "0.973",
-                "mswinSQL": "1.230",
+                "mswinSQL": "1.23",
                 "mswinSQLWeb": "0.993"
             }
         },
@@ -3679,13 +3691,13 @@
             "us-gov-west-1": {
                 "linux": "2.046",
                 "mswin": "2.287",
-                "mswinSQL": "2.800",
+                "mswinSQL": "2.8",
                 "mswinSQLWeb": "2.327"
             },
             "us-west-1": {
                 "linux": "1.876",
                 "mswin": "2.116",
-                "mswinSQL": "2.630",
+                "mswinSQL": "2.63",
                 "mswinSQLWeb": "2.156"
             },
             "us-west-2": {
@@ -3732,13 +3744,13 @@
                 "mswinSQLWeb": "4.923"
             },
             "ap-southeast-1": {
-                "linux": "4.070",
+                "linux": "4.07",
                 "mswin": "4.674",
                 "mswinSQL": "8.508",
                 "mswinSQLWeb": "5.169"
             },
             "ap-southeast-2": {
-                "linux": "4.070",
+                "linux": "4.07",
                 "mswin": "4.674",
                 "mswinSQL": "8.508",
                 "mswinSQLWeb": "5.169"
@@ -3756,7 +3768,7 @@
                 "mswinSQLWeb": "3.971"
             },
             "us-east-1": {
-                "linux": "3.410",
+                "linux": "3.41",
                 "mswin": "3.891",
                 "mswinSQL": "4.918",
                 "mswinSQLWeb": "3.971"
@@ -3764,7 +3776,7 @@
             "us-gov-west-1": {
                 "linux": "4.092",
                 "mswin": "4.573",
-                "mswinSQL": "5.600",
+                "mswinSQL": "5.6",
                 "mswinSQLWeb": "4.653"
             },
             "us-west-1": {
@@ -3774,7 +3786,7 @@
                 "mswinSQLWeb": "4.312"
             },
             "us-west-2": {
-                "linux": "3.410",
+                "linux": "3.41",
                 "mswin": "3.891",
                 "mswinSQL": "4.918",
                 "mswinSQLWeb": "3.971"
@@ -3817,13 +3829,13 @@
                 "mswinSQLWeb": "9.846"
             },
             "ap-southeast-1": {
-                "linux": "8.140",
+                "linux": "8.14",
                 "mswin": "9.348",
                 "mswinSQL": "17.016",
                 "mswinSQLWeb": "10.338"
             },
             "ap-southeast-2": {
-                "linux": "8.140",
+                "linux": "8.14",
                 "mswin": "9.348",
                 "mswinSQL": "17.016",
                 "mswinSQLWeb": "10.338"
@@ -3841,7 +3853,7 @@
                 "mswinSQLWeb": "7.942"
             },
             "us-east-1": {
-                "linux": "6.820",
+                "linux": "6.82",
                 "mswin": "7.782",
                 "mswinSQL": "9.836",
                 "mswinSQLWeb": "7.942"
@@ -3849,7 +3861,7 @@
             "us-gov-west-1": {
                 "linux": "8.184",
                 "mswin": "9.146",
-                "mswinSQL": "11.200",
+                "mswinSQL": "11.2",
                 "mswinSQLWeb": "9.306"
             },
             "us-west-1": {
@@ -3859,7 +3871,7 @@
                 "mswinSQLWeb": "8.624"
             },
             "us-west-2": {
-                "linux": "6.820",
+                "linux": "6.82",
                 "mswin": "7.782",
                 "mswinSQL": "9.836",
                 "mswinSQLWeb": "7.942"
@@ -3900,11 +3912,11 @@
                 "mswin": "0.975"
             },
             "ap-southeast-1": {
-                "linux": "0.870",
+                "linux": "0.87",
                 "mswin": "1.001"
             },
             "ap-southeast-2": {
-                "linux": "0.870",
+                "linux": "0.87",
                 "mswin": "1.001"
             },
             "eu-central-1": {
@@ -3916,11 +3928,11 @@
                 "mswin": "0.866"
             },
             "us-east-1": {
-                "linux": "0.690",
+                "linux": "0.69",
                 "mswin": "0.821"
             },
             "us-west-2": {
-                "linux": "0.690",
+                "linux": "0.69",
                 "mswin": "0.821"
             }
         },
@@ -3959,11 +3971,11 @@
                 "mswin": "1.909"
             },
             "ap-southeast-1": {
-                "linux": "1.740",
+                "linux": "1.74",
                 "mswin": "1.961"
             },
             "ap-southeast-2": {
-                "linux": "1.740",
+                "linux": "1.74",
                 "mswin": "1.961"
             },
             "eu-central-1": {
@@ -3971,15 +3983,15 @@
                 "mswin": "1.809"
             },
             "eu-west-1": {
-                "linux": "1.470",
+                "linux": "1.47",
                 "mswin": "1.691"
             },
             "us-east-1": {
-                "linux": "1.380",
+                "linux": "1.38",
                 "mswin": "1.601"
             },
             "us-west-2": {
-                "linux": "1.380",
+                "linux": "1.38",
                 "mswin": "1.601"
             }
         },
@@ -4018,11 +4030,11 @@
                 "mswin": "3.678"
             },
             "ap-southeast-1": {
-                "linux": "3.480",
+                "linux": "3.48",
                 "mswin": "3.782"
             },
             "ap-southeast-2": {
-                "linux": "3.480",
+                "linux": "3.48",
                 "mswin": "3.782"
             },
             "eu-central-1": {
@@ -4030,15 +4042,15 @@
                 "mswin": "3.478"
             },
             "eu-west-1": {
-                "linux": "2.940",
+                "linux": "2.94",
                 "mswin": "3.242"
             },
             "us-east-1": {
-                "linux": "2.760",
+                "linux": "2.76",
                 "mswin": "3.062"
             },
             "us-west-2": {
-                "linux": "2.760",
+                "linux": "2.76",
                 "mswin": "3.062"
             }
         },
@@ -4074,30 +4086,30 @@
         "pricing": {
             "ap-northeast-1": {
                 "linux": "6.752",
-                "mswin": "7.430"
+                "mswin": "7.43"
             },
             "ap-southeast-1": {
-                "linux": "6.960",
+                "linux": "6.96",
                 "mswin": "7.638"
             },
             "ap-southeast-2": {
-                "linux": "6.960",
+                "linux": "6.96",
                 "mswin": "7.638"
             },
             "eu-central-1": {
                 "linux": "6.352",
-                "mswin": "7.030"
+                "mswin": "7.03"
             },
             "eu-west-1": {
-                "linux": "5.880",
+                "linux": "5.88",
                 "mswin": "6.558"
             },
             "us-east-1": {
-                "linux": "5.520",
+                "linux": "5.52",
                 "mswin": "6.198"
             },
             "us-west-2": {
-                "linux": "5.520",
+                "linux": "5.52",
                 "mswin": "6.198"
             }
         },
