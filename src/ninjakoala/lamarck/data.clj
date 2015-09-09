@@ -29,7 +29,7 @@
 
 (defn- numberize-prices
   [prices]
-  (into {} (map (fn [[k v]] (when-let [price (double-or-nothing v)] [k price])) (s/rename-keys prices price-key-mappings))))
+  (into {} (map (fn [[k v]] (when-let [price (double-or-nothing (:ondemand v))] [k price])) (s/rename-keys prices price-key-mappings))))
 
 (defn- sort-out-prices
   [pricing]
