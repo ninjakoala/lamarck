@@ -1,4 +1,4 @@
-(defproject com.ninjakoala/lamarck "1.0.8-SNAPSHOT"
+(defproject com.ninjakoala/lamarck "1.0.8"
   :description "For classifying clouds (specifically Amazon's)"
   :url "https://github.com/ninjakoala/lamarck"
   :license {:name "Eclipse Public License"
