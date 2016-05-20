@@ -62,6 +62,20 @@
                     }
                 }
             },
+            "ap-northeast-2": {
+                "linux": {
+                    "ondemand": "N/A"
+                },
+                "mswin": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQL": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "N/A"
+                }
+            },
             "ap-southeast-1": {
                 "linux": {
                     "ondemand": "0.058",
@@ -415,7 +429,7 @@
         },
         "storage": {
             "devices": 1,
-            "size": 160,
+            "size": 160.0,
             "ssd": false
         },
         "vCPU": 1,
@@ -486,6 +500,20 @@
                         "yrTerm3.allUpfront": "0.1162",
                         "yrTerm3.partialUpfront": "0.1236"
                     }
+                }
+            },
+            "ap-northeast-2": {
+                "linux": {
+                    "ondemand": "N/A"
+                },
+                "mswin": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQL": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "N/A"
                 }
             },
             "ap-southeast-1": {
@@ -841,7 +869,7 @@
         },
         "storage": {
             "devices": 1,
-            "size": 410,
+            "size": 410.0,
             "ssd": false
         },
         "vCPU": 1,
@@ -856,10 +884,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 4000,
+        "ebs_iops": 4000.0,
         "ebs_max_bandwidth": 62.5,
         "ebs_optimized": true,
-        "ebs_throughput": 500,
+        "ebs_throughput": 500.0,
         "enhanced_networking": false,
         "family": "General purpose",
         "generation": "previous",
@@ -911,6 +939,20 @@
                         "yrTerm3.allUpfront": "0.2117",
                         "yrTerm3.partialUpfront": "0.2252"
                     }
+                }
+            },
+            "ap-northeast-2": {
+                "linux": {
+                    "ondemand": "N/A"
+                },
+                "mswin": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQL": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "N/A"
                 }
             },
             "ap-southeast-1": {
@@ -1266,7 +1308,7 @@
         },
         "storage": {
             "devices": 2,
-            "size": 420,
+            "size": 420.0,
             "ssd": false
         },
         "vCPU": 2,
@@ -1281,10 +1323,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 8000,
+        "ebs_iops": 8000.0,
         "ebs_max_bandwidth": 125.0,
         "ebs_optimized": true,
-        "ebs_throughput": 1000,
+        "ebs_throughput": 1000.0,
         "enhanced_networking": false,
         "family": "General purpose",
         "generation": "previous",
@@ -1336,6 +1378,20 @@
                         "yrTerm3.allUpfront": "0.4024",
                         "yrTerm3.partialUpfront": "0.4281"
                     }
+                }
+            },
+            "ap-northeast-2": {
+                "linux": {
+                    "ondemand": "N/A"
+                },
+                "mswin": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQL": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "N/A"
                 }
             },
             "ap-southeast-1": {
@@ -1691,7 +1747,7 @@
         },
         "storage": {
             "devices": 4,
-            "size": 420,
+            "size": 420.0,
             "ssd": false
         },
         "vCPU": 4,
@@ -1755,6 +1811,20 @@
                         "yrTerm3.allUpfront": "0.1693",
                         "yrTerm3.partialUpfront": "0.1801"
                     }
+                }
+            },
+            "ap-northeast-2": {
+                "linux": {
+                    "ondemand": "N/A"
+                },
+                "mswin": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQL": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "N/A"
                 }
             },
             "ap-southeast-1": {
@@ -2054,7 +2124,7 @@
         },
         "storage": {
             "devices": 1,
-            "size": 350,
+            "size": 350.0,
             "ssd": false
         },
         "vCPU": 2,
@@ -2069,10 +2139,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 8000,
+        "ebs_iops": 8000.0,
         "ebs_max_bandwidth": 125.0,
         "ebs_optimized": true,
-        "ebs_throughput": 1000,
+        "ebs_throughput": 1000.0,
         "enhanced_networking": false,
         "family": "Compute optimized",
         "generation": "previous",
@@ -2124,6 +2194,20 @@
                         "yrTerm3.allUpfront": "0.619",
                         "yrTerm3.partialUpfront": "0.6585"
                     }
+                }
+            },
+            "ap-northeast-2": {
+                "linux": {
+                    "ondemand": "N/A"
+                },
+                "mswin": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQL": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "N/A"
                 }
             },
             "ap-southeast-1": {
@@ -2479,7 +2563,7 @@
         },
         "storage": {
             "devices": 4,
-            "size": 420,
+            "size": 420.0,
             "ssd": false
         },
         "vCPU": 8,
@@ -2549,6 +2633,20 @@
                         "yrTerm3.allUpfront": "1.5949",
                         "yrTerm3.partialUpfront": "1.6967"
                     }
+                }
+            },
+            "ap-northeast-2": {
+                "linux": {
+                    "ondemand": "N/A"
+                },
+                "mswin": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQL": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "N/A"
                 }
             },
             "ap-southeast-1": {
@@ -2792,7 +2890,7 @@
         },
         "storage": {
             "devices": 4,
-            "size": 840,
+            "size": 840.0,
             "ssd": false
         },
         "vCPU": 32,
@@ -2823,6 +2921,20 @@
         "pretty_name": "Cluster GPU Quadruple Extra Large",
         "pricing": {
             "ap-northeast-1": {
+                "linux": {
+                    "ondemand": "N/A"
+                },
+                "mswin": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQL": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "N/A"
+                }
+            },
+            "ap-northeast-2": {
                 "linux": {
                     "ondemand": "N/A"
                 },
@@ -2965,7 +3077,7 @@
         },
         "storage": {
             "devices": 2,
-            "size": 840,
+            "size": 840.0,
             "ssd": false
         },
         "vCPU": 16,
@@ -3035,6 +3147,20 @@
                         "yrTerm3.allUpfront": "0.2508",
                         "yrTerm3.partialUpfront": "0.2668"
                     }
+                }
+            },
+            "ap-northeast-2": {
+                "linux": {
+                    "ondemand": "N/A"
+                },
+                "mswin": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQL": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "N/A"
                 }
             },
             "ap-southeast-1": {
@@ -3390,7 +3516,7 @@
         },
         "storage": {
             "devices": 1,
-            "size": 420,
+            "size": 420.0,
             "ssd": false
         },
         "vCPU": 2,
@@ -3405,10 +3531,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 4000,
+        "ebs_iops": 4000.0,
         "ebs_max_bandwidth": 62.5,
         "ebs_optimized": true,
-        "ebs_throughput": 500,
+        "ebs_throughput": 500.0,
         "enhanced_networking": false,
         "family": "Memory optimized",
         "generation": "previous",
@@ -3460,6 +3586,20 @@
                         "yrTerm3.allUpfront": "0.4821",
                         "yrTerm3.partialUpfront": "0.5129"
                     }
+                }
+            },
+            "ap-northeast-2": {
+                "linux": {
+                    "ondemand": "N/A"
+                },
+                "mswin": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQL": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "N/A"
                 }
             },
             "ap-southeast-1": {
@@ -3815,7 +3955,7 @@
         },
         "storage": {
             "devices": 1,
-            "size": 850,
+            "size": 850.0,
             "ssd": false
         },
         "vCPU": 4,
@@ -3830,10 +3970,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 8000,
+        "ebs_iops": 8000.0,
         "ebs_max_bandwidth": 125.0,
         "ebs_optimized": true,
-        "ebs_throughput": 1000,
+        "ebs_throughput": 1000.0,
         "enhanced_networking": false,
         "family": "Memory optimized",
         "generation": "previous",
@@ -3885,6 +4025,20 @@
                         "yrTerm3.allUpfront": "0.9627",
                         "yrTerm3.partialUpfront": "1.0242"
                     }
+                }
+            },
+            "ap-northeast-2": {
+                "linux": {
+                    "ondemand": "N/A"
+                },
+                "mswin": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQL": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "N/A"
                 }
             },
             "ap-southeast-1": {
@@ -4240,7 +4394,7 @@
         },
         "storage": {
             "devices": 2,
-            "size": 840,
+            "size": 840.0,
             "ssd": false
         },
         "vCPU": 8,
@@ -4308,6 +4462,20 @@
                         "yrTerm3.allUpfront": "1.7283",
                         "yrTerm3.partialUpfront": "1.8386"
                     }
+                }
+            },
+            "ap-northeast-2": {
+                "linux": {
+                    "ondemand": "N/A"
+                },
+                "mswin": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQL": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "N/A"
                 }
             },
             "ap-southeast-1": {
@@ -4523,7 +4691,7 @@
         },
         "storage": {
             "devices": 2,
-            "size": 120,
+            "size": 120.0,
             "ssd": true
         },
         "vCPU": 32,
@@ -4594,6 +4762,20 @@
                         "yrTerm3.allUpfront": "1.8784",
                         "yrTerm3.partialUpfront": "1.9983"
                     }
+                }
+            },
+            "ap-northeast-2": {
+                "linux": {
+                    "ondemand": "N/A"
+                },
+                "mswin": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQL": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "N/A"
                 }
             },
             "ap-southeast-1": {
@@ -4809,7 +4991,7 @@
         },
         "storage": {
             "devices": 2,
-            "size": 1024,
+            "size": 1024.0,
             "ssd": true
         },
         "vCPU": 16,
@@ -4880,6 +5062,20 @@
                         "yrTerm3.allUpfront": "2.4236",
                         "yrTerm3.partialUpfront": "2.5783"
                     }
+                }
+            },
+            "ap-northeast-2": {
+                "linux": {
+                    "ondemand": "N/A"
+                },
+                "mswin": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQL": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "N/A"
                 }
             },
             "ap-southeast-1": {
@@ -5179,7 +5375,7 @@
         },
         "storage": {
             "devices": 24,
-            "size": 2000,
+            "size": 2000.0,
             "ssd": false
         },
         "vCPU": 16,
@@ -5243,6 +5439,20 @@
                         "yrTerm3.allUpfront": "0.0433",
                         "yrTerm3.partialUpfront": "0.0461"
                     }
+                }
+            },
+            "ap-northeast-2": {
+                "linux": {
+                    "ondemand": "N/A"
+                },
+                "mswin": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQL": {
+                    "ondemand": "N/A"
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "N/A"
                 }
             },
             "ap-southeast-1": {
@@ -5592,13 +5802,13 @@
             },
             "ap-northeast-2": {
                 "linux": {
-                    "ondemand": "0.010",
+                    "ondemand": "0.01",
                     "reserved": {
                         "yrTerm1.allUpfront": "0.0072",
                         "yrTerm1.noUpfront": "0.0086",
                         "yrTerm1.partialUpfront": "0.0074",
                         "yrTerm3.allUpfront": "0.0047",
-                        "yrTerm3.partialUpfront": "0.0050"
+                        "yrTerm3.partialUpfront": "0.005"
                     }
                 },
                 "mswin": {
@@ -5607,7 +5817,7 @@
                         "yrTerm1.allUpfront": "0.0095",
                         "yrTerm1.noUpfront": "0.0109",
                         "yrTerm1.partialUpfront": "0.0097",
-                        "yrTerm3.allUpfront": "0.0070",
+                        "yrTerm3.allUpfront": "0.007",
                         "yrTerm3.partialUpfront": "0.0073"
                     }
                 }
@@ -5631,6 +5841,50 @@
                         "yrTerm1.partialUpfront": "0.0098",
                         "yrTerm3.allUpfront": "0.0078",
                         "yrTerm3.partialUpfront": "0.0082"
+                    }
+                }
+            },
+            "ap-southeast-2": {
+                "linux": {
+                    "ondemand": "0.01",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "0.0073",
+                        "yrTerm1.noUpfront": "0.008",
+                        "yrTerm1.partialUpfront": "0.0076",
+                        "yrTerm3.allUpfront": "0.0055",
+                        "yrTerm3.partialUpfront": "0.0059"
+                    }
+                },
+                "mswin": {
+                    "ondemand": "0.0123",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "0.0097",
+                        "yrTerm1.noUpfront": "0.0103",
+                        "yrTerm1.partialUpfront": "0.0099",
+                        "yrTerm3.allUpfront": "0.0078",
+                        "yrTerm3.partialUpfront": "0.0082"
+                    }
+                }
+            },
+            "eu-central-1": {
+                "linux": {
+                    "ondemand": "0.0075",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "0.005",
+                        "yrTerm1.noUpfront": "0.0055",
+                        "yrTerm1.partialUpfront": "0.0052",
+                        "yrTerm3.allUpfront": "0.0034",
+                        "yrTerm3.partialUpfront": "0.0036"
+                    }
+                },
+                "mswin": {
+                    "ondemand": "0.0098",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "0.0074",
+                        "yrTerm1.noUpfront": "0.0078",
+                        "yrTerm1.partialUpfront": "0.0075",
+                        "yrTerm3.allUpfront": "0.0057",
+                        "yrTerm3.partialUpfront": "0.0059"
                     }
                 }
             },
@@ -5830,22 +6084,22 @@
             },
             "ap-northeast-2": {
                 "linux": {
-                    "ondemand": "0.020",
+                    "ondemand": "0.02",
                     "reserved": {
                         "yrTerm1.allUpfront": "0.0144",
                         "yrTerm1.noUpfront": "0.0172",
                         "yrTerm1.partialUpfront": "0.0147",
                         "yrTerm3.allUpfront": "0.0094",
-                        "yrTerm3.partialUpfront": "0.0100"
+                        "yrTerm3.partialUpfront": "0.01"
                     }
                 },
                 "mswin": {
                     "ondemand": "0.025",
                     "reserved": {
-                        "yrTerm1.allUpfront": "0.0190",
+                        "yrTerm1.allUpfront": "0.019",
                         "yrTerm1.noUpfront": "0.0218",
                         "yrTerm1.partialUpfront": "0.0193",
-                        "yrTerm3.allUpfront": "0.0140",
+                        "yrTerm3.allUpfront": "0.014",
                         "yrTerm3.partialUpfront": "0.0146"
                     }
                 },
@@ -5856,7 +6110,7 @@
                         "yrTerm1.noUpfront": "0.0722",
                         "yrTerm1.partialUpfront": "0.0697",
                         "yrTerm3.allUpfront": "0.0644",
-                        "yrTerm3.partialUpfront": "0.0650"
+                        "yrTerm3.partialUpfront": "0.065"
                     }
                 }
             },
@@ -6212,33 +6466,33 @@
             },
             "ap-northeast-2": {
                 "linux": {
-                    "ondemand": "0.040",
+                    "ondemand": "0.04",
                     "reserved": {
                         "yrTerm1.allUpfront": "0.0288",
                         "yrTerm1.noUpfront": "0.0344",
                         "yrTerm1.partialUpfront": "0.0294",
                         "yrTerm3.allUpfront": "0.0188",
-                        "yrTerm3.partialUpfront": "0.0200"
+                        "yrTerm3.partialUpfront": "0.02"
                     }
                 },
                 "mswin": {
                     "ondemand": "0.049",
                     "reserved": {
-                        "yrTerm1.allUpfront": "0.0380",
+                        "yrTerm1.allUpfront": "0.038",
                         "yrTerm1.noUpfront": "0.0436",
                         "yrTerm1.partialUpfront": "0.0386",
-                        "yrTerm3.allUpfront": "0.0280",
+                        "yrTerm3.allUpfront": "0.028",
                         "yrTerm3.partialUpfront": "0.0292"
                     }
                 },
                 "mswinSQLWeb": {
-                    "ondemand": "0.150",
+                    "ondemand": "0.15",
                     "reserved": {
                         "yrTerm1.allUpfront": "0.1388",
                         "yrTerm1.noUpfront": "0.1444",
                         "yrTerm1.partialUpfront": "0.1394",
                         "yrTerm3.allUpfront": "0.1288",
-                        "yrTerm3.partialUpfront": "0.1300"
+                        "yrTerm3.partialUpfront": "0.13"
                     }
                 }
             },
@@ -6593,33 +6847,33 @@
             },
             "ap-northeast-2": {
                 "linux": {
-                    "ondemand": "0.080",
+                    "ondemand": "0.08",
                     "reserved": {
                         "yrTerm1.allUpfront": "0.0576",
                         "yrTerm1.noUpfront": "0.0688",
                         "yrTerm1.partialUpfront": "0.0588",
                         "yrTerm3.allUpfront": "0.0376",
-                        "yrTerm3.partialUpfront": "0.0400"
+                        "yrTerm3.partialUpfront": "0.04"
                     }
                 },
                 "mswin": {
                     "ondemand": "0.098",
                     "reserved": {
-                        "yrTerm1.allUpfront": "0.0760",
+                        "yrTerm1.allUpfront": "0.076",
                         "yrTerm1.noUpfront": "0.0872",
                         "yrTerm1.partialUpfront": "0.0772",
-                        "yrTerm3.allUpfront": "0.0560",
+                        "yrTerm3.allUpfront": "0.056",
                         "yrTerm3.partialUpfront": "0.0584"
                     }
                 },
                 "mswinSQLWeb": {
-                    "ondemand": "0.410",
+                    "ondemand": "0.41",
                     "reserved": {
                         "yrTerm1.allUpfront": "0.3876",
                         "yrTerm1.noUpfront": "0.3988",
                         "yrTerm1.partialUpfront": "0.3888",
                         "yrTerm3.allUpfront": "0.3676",
-                        "yrTerm3.partialUpfront": "0.3700"
+                        "yrTerm3.partialUpfront": "0.37"
                     }
                 }
             },
@@ -6974,7 +7228,7 @@
             },
             "ap-northeast-2": {
                 "linux": {
-                    "ondemand": "0.160",
+                    "ondemand": "0.16",
                     "reserved": {
                         "yrTerm1.allUpfront": "0.1153",
                         "yrTerm1.noUpfront": "0.1376",
@@ -6994,7 +7248,7 @@
                     }
                 },
                 "mswinSQLWeb": {
-                    "ondemand": "0.710",
+                    "ondemand": "0.71",
                     "reserved": {
                         "yrTerm1.allUpfront": "0.6653",
                         "yrTerm1.noUpfront": "0.6876",
@@ -7306,10 +7560,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 3600,
+        "ebs_iops": 3600.0,
         "ebs_max_bandwidth": 56.25,
         "ebs_optimized": true,
-        "ebs_throughput": 450,
+        "ebs_throughput": 450.0,
         "enhanced_networking": true,
         "family": "General purpose",
         "generation": "current",
@@ -7713,10 +7967,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 6000,
+        "ebs_iops": 6000.0,
         "ebs_max_bandwidth": 93.75,
         "ebs_optimized": true,
-        "ebs_throughput": 750,
+        "ebs_throughput": 750.0,
         "enhanced_networking": true,
         "family": "General purpose",
         "generation": "current",
@@ -8120,10 +8374,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 8000,
+        "ebs_iops": 8000.0,
         "ebs_max_bandwidth": 125.0,
         "ebs_optimized": true,
-        "ebs_throughput": 1000,
+        "ebs_throughput": 1000.0,
         "enhanced_networking": true,
         "family": "General purpose",
         "generation": "current",
@@ -8179,7 +8433,7 @@
             },
             "ap-northeast-2": {
                 "linux": {
-                    "ondemand": "0.660",
+                    "ondemand": "0.66",
                     "reserved": {
                         "yrTerm1.allUpfront": "0.3463",
                         "yrTerm1.noUpfront": "0.4135",
@@ -8527,10 +8781,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 16000,
+        "ebs_iops": 16000.0,
         "ebs_max_bandwidth": 250.0,
         "ebs_optimized": true,
-        "ebs_throughput": 2000,
+        "ebs_throughput": 2000.0,
         "enhanced_networking": true,
         "family": "General purpose",
         "generation": "current",
@@ -8592,7 +8846,7 @@
                         "yrTerm1.noUpfront": "0.8281",
                         "yrTerm1.partialUpfront": "0.7078",
                         "yrTerm3.allUpfront": "0.4822",
-                        "yrTerm3.partialUpfront": "0.5130"
+                        "yrTerm3.partialUpfront": "0.513"
                     }
                 },
                 "mswin": {
@@ -8602,7 +8856,7 @@
                         "yrTerm1.noUpfront": "1.5641",
                         "yrTerm1.partialUpfront": "1.4438",
                         "yrTerm3.allUpfront": "1.2182",
-                        "yrTerm3.partialUpfront": "1.2490"
+                        "yrTerm3.partialUpfront": "1.249"
                     }
                 },
                 "mswinSQL": {
@@ -8612,7 +8866,7 @@
                         "yrTerm1.noUpfront": "4.3961",
                         "yrTerm1.partialUpfront": "4.2758",
                         "yrTerm3.allUpfront": "4.0502",
-                        "yrTerm3.partialUpfront": "4.0810"
+                        "yrTerm3.partialUpfront": "4.081"
                     }
                 },
                 "mswinSQLWeb": {
@@ -8622,7 +8876,7 @@
                         "yrTerm1.noUpfront": "1.8561",
                         "yrTerm1.partialUpfront": "1.7358",
                         "yrTerm3.allUpfront": "1.5102",
-                        "yrTerm3.partialUpfront": "1.5410"
+                        "yrTerm3.partialUpfront": "1.541"
                     }
                 }
             },
@@ -8934,10 +9188,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 32000,
+        "ebs_iops": 32000.0,
         "ebs_max_bandwidth": 500.0,
         "ebs_optimized": true,
-        "ebs_throughput": 4000,
+        "ebs_throughput": 4000.0,
         "enhanced_networking": true,
         "family": "General purpose",
         "generation": "current",
@@ -9760,7 +10014,7 @@
         },
         "storage": {
             "devices": 1,
-            "size": 4,
+            "size": 4.0,
             "ssd": true
         },
         "vCPU": 1,
@@ -10214,7 +10468,7 @@
         },
         "storage": {
             "devices": 1,
-            "size": 32,
+            "size": 32.0,
             "ssd": true
         },
         "vCPU": 2,
@@ -10229,10 +10483,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 4000,
+        "ebs_iops": 4000.0,
         "ebs_max_bandwidth": 62.5,
         "ebs_optimized": true,
-        "ebs_throughput": 500,
+        "ebs_throughput": 500.0,
         "enhanced_networking": false,
         "family": "General purpose",
         "generation": "current",
@@ -10668,7 +10922,7 @@
         },
         "storage": {
             "devices": 2,
-            "size": 40,
+            "size": 40.0,
             "ssd": true
         },
         "vCPU": 4,
@@ -10683,10 +10937,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 8000,
+        "ebs_iops": 8000.0,
         "ebs_max_bandwidth": 125.0,
         "ebs_optimized": true,
-        "ebs_throughput": 1000,
+        "ebs_throughput": 1000.0,
         "enhanced_networking": false,
         "family": "General purpose",
         "generation": "current",
@@ -11122,7 +11376,7 @@
         },
         "storage": {
             "devices": 2,
-            "size": 80,
+            "size": 80.0,
             "ssd": true
         },
         "vCPU": 8,
@@ -11137,10 +11391,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 4000,
+        "ebs_iops": 4000.0,
         "ebs_max_bandwidth": 62.5,
         "ebs_optimized": true,
-        "ebs_throughput": 500,
+        "ebs_throughput": 500.0,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -11196,11 +11450,11 @@
             },
             "ap-northeast-2": {
                 "linux": {
-                    "ondemand": "0.120",
+                    "ondemand": "0.12",
                     "reserved": {
                         "yrTerm1.allUpfront": "0.0794",
                         "yrTerm1.noUpfront": "0.0948",
-                        "yrTerm1.partialUpfront": "0.0810",
+                        "yrTerm1.partialUpfront": "0.081",
                         "yrTerm3.allUpfront": "0.0575",
                         "yrTerm3.partialUpfront": "0.0612"
                     }
@@ -11210,7 +11464,7 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "0.1714",
                         "yrTerm1.noUpfront": "0.1868",
-                        "yrTerm1.partialUpfront": "0.1730",
+                        "yrTerm1.partialUpfront": "0.173",
                         "yrTerm3.allUpfront": "0.1495",
                         "yrTerm3.partialUpfront": "0.1532"
                     }
@@ -11220,7 +11474,7 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "0.9084",
                         "yrTerm1.noUpfront": "0.9238",
-                        "yrTerm1.partialUpfront": "0.9100",
+                        "yrTerm1.partialUpfront": "0.91",
                         "yrTerm3.allUpfront": "0.8865",
                         "yrTerm3.partialUpfront": "0.8902"
                     }
@@ -11230,7 +11484,7 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "0.2484",
                         "yrTerm1.noUpfront": "0.2638",
-                        "yrTerm1.partialUpfront": "0.2500",
+                        "yrTerm1.partialUpfront": "0.25",
                         "yrTerm3.allUpfront": "0.2265",
                         "yrTerm3.partialUpfront": "0.2302"
                     }
@@ -11544,10 +11798,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 6000,
+        "ebs_iops": 6000.0,
         "ebs_max_bandwidth": 93.75,
         "ebs_optimized": true,
-        "ebs_throughput": 750,
+        "ebs_throughput": 750.0,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -11951,10 +12205,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 8000,
+        "ebs_iops": 8000.0,
         "ebs_max_bandwidth": 125.0,
         "ebs_optimized": true,
-        "ebs_throughput": 1000,
+        "ebs_throughput": 1000.0,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -12358,10 +12612,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 16000,
+        "ebs_iops": 16000.0,
         "ebs_max_bandwidth": 250.0,
         "ebs_optimized": true,
-        "ebs_throughput": 2000,
+        "ebs_throughput": 2000.0,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -12765,10 +13019,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 32000,
+        "ebs_iops": 32000.0,
         "ebs_max_bandwidth": 500.0,
         "ebs_optimized": true,
-        "ebs_throughput": 4000,
+        "ebs_throughput": 4000.0,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -12824,7 +13078,7 @@
             },
             "ap-northeast-2": {
                 "linux": {
-                    "ondemand": "1.910",
+                    "ondemand": "1.91",
                     "reserved": {
                         "yrTerm1.allUpfront": "1.2798",
                         "yrTerm1.noUpfront": "1.5279",
@@ -13581,7 +13835,7 @@
         },
         "storage": {
             "devices": 2,
-            "size": 16,
+            "size": 16.0,
             "ssd": true
         },
         "vCPU": 2,
@@ -13596,10 +13850,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 4000,
+        "ebs_iops": 4000.0,
         "ebs_max_bandwidth": 62.5,
         "ebs_optimized": true,
-        "ebs_throughput": 500,
+        "ebs_throughput": 500.0,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -14035,7 +14289,7 @@
         },
         "storage": {
             "devices": 2,
-            "size": 40,
+            "size": 40.0,
             "ssd": true
         },
         "vCPU": 4,
@@ -14050,10 +14304,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 8000,
+        "ebs_iops": 8000.0,
         "ebs_max_bandwidth": 125.0,
         "ebs_optimized": true,
-        "ebs_throughput": 1000,
+        "ebs_throughput": 1000.0,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -14489,7 +14743,7 @@
         },
         "storage": {
             "devices": 2,
-            "size": 80,
+            "size": 80.0,
             "ssd": true
         },
         "vCPU": 8,
@@ -14504,10 +14758,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 16000,
+        "ebs_iops": 16000.0,
         "ebs_max_bandwidth": 250.0,
         "ebs_optimized": true,
-        "ebs_throughput": 2000,
+        "ebs_throughput": 2000.0,
         "enhanced_networking": true,
         "family": "Compute optimized",
         "generation": "current",
@@ -14943,7 +15197,7 @@
         },
         "storage": {
             "devices": 2,
-            "size": 160,
+            "size": 160.0,
             "ssd": true
         },
         "vCPU": 16,
@@ -15397,7 +15651,7 @@
         },
         "storage": {
             "devices": 2,
-            "size": 320,
+            "size": 320.0,
             "ssd": true
         },
         "vCPU": 32,
@@ -15412,10 +15666,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 8000,
+        "ebs_iops": 8000.0,
         "ebs_max_bandwidth": 125.0,
         "ebs_optimized": true,
-        "ebs_throughput": 1000,
+        "ebs_throughput": 1000.0,
         "enhanced_networking": false,
         "family": "GPU instances",
         "generation": "current",
@@ -15746,7 +16000,7 @@
         },
         "storage": {
             "devices": 1,
-            "size": 60,
+            "size": 60.0,
             "ssd": true
         },
         "vCPU": 8,
@@ -15955,10 +16209,337 @@
         },
         "storage": {
             "devices": 2,
-            "size": 120,
+            "size": 120.0,
             "ssd": true
         },
         "vCPU": 32,
+        "vpc": {
+            "ips_per_eni": 30,
+            "max_enis": 8
+        },
+        "vpc_only": false
+    },
+    {
+        "ECU": 349.0,
+        "arch": [
+            "x86_64"
+        ],
+        "ebs_iops": 0,
+        "ebs_max_bandwidth": 0,
+        "ebs_optimized": true,
+        "ebs_throughput": 0,
+        "enhanced_networking": false,
+        "family": "Memory optimized",
+        "generation": "current",
+        "instance_type": "x1.32xlarge",
+        "linux_virtualization_types": [
+            "HVM"
+        ],
+        "memory": 1952.0,
+        "network_performance": "10 Gigabit",
+        "pretty_name": "X1 32xlarge",
+        "pricing": {
+            "ap-northeast-1": {
+                "linux": {
+                    "ondemand": "19.341",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "11.123",
+                        "yrTerm1.noUpfront": "13.280",
+                        "yrTerm1.partialUpfront": "11.350",
+                        "yrTerm3.allUpfront": "5.411",
+                        "yrTerm3.partialUpfront": "5.757"
+                    }
+                },
+                "mswin": {
+                    "ondemand": "25.229",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "17.011",
+                        "yrTerm1.noUpfront": "19.168",
+                        "yrTerm1.partialUpfront": "17.238",
+                        "yrTerm3.allUpfront": "11.299",
+                        "yrTerm3.partialUpfront": "11.645"
+                    }
+                },
+                "mswinSQL": {
+                    "ondemand": "67.685",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "59.467",
+                        "yrTerm1.noUpfront": "61.624",
+                        "yrTerm1.partialUpfront": "59.694",
+                        "yrTerm3.allUpfront": "53.755",
+                        "yrTerm3.partialUpfront": "54.101"
+                    }
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "27.883",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "19.665",
+                        "yrTerm1.noUpfront": "21.822",
+                        "yrTerm1.partialUpfront": "19.892",
+                        "yrTerm3.allUpfront": "13.953",
+                        "yrTerm3.partialUpfront": "14.299"
+                    }
+                }
+            },
+            "ap-southeast-1": {
+                "linux": {
+                    "ondemand": "19.341",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "11.123",
+                        "yrTerm1.noUpfront": "13.280",
+                        "yrTerm1.partialUpfront": "11.350",
+                        "yrTerm3.allUpfront": "5.411",
+                        "yrTerm3.partialUpfront": "5.757"
+                    }
+                },
+                "mswin": {
+                    "ondemand": "25.229",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "17.011",
+                        "yrTerm1.noUpfront": "19.168",
+                        "yrTerm1.partialUpfront": "17.238",
+                        "yrTerm3.allUpfront": "11.299",
+                        "yrTerm3.partialUpfront": "11.645"
+                    }
+                },
+                "mswinSQL": {
+                    "ondemand": "67.685",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "59.467",
+                        "yrTerm1.noUpfront": "61.624",
+                        "yrTerm1.partialUpfront": "59.694",
+                        "yrTerm3.allUpfront": "53.755",
+                        "yrTerm3.partialUpfront": "54.101"
+                    }
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "27.883",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "19.665",
+                        "yrTerm1.noUpfront": "21.822",
+                        "yrTerm1.partialUpfront": "19.892",
+                        "yrTerm3.allUpfront": "13.953",
+                        "yrTerm3.partialUpfront": "14.299"
+                    }
+                }
+            },
+            "ap-southeast-2": {
+                "linux": {
+                    "ondemand": "19.341",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "11.123",
+                        "yrTerm1.noUpfront": "13.280",
+                        "yrTerm1.partialUpfront": "11.350",
+                        "yrTerm3.allUpfront": "5.411",
+                        "yrTerm3.partialUpfront": "5.757"
+                    }
+                },
+                "mswin": {
+                    "ondemand": "25.229",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "17.011",
+                        "yrTerm1.noUpfront": "19.168",
+                        "yrTerm1.partialUpfront": "17.238",
+                        "yrTerm3.allUpfront": "11.299",
+                        "yrTerm3.partialUpfront": "11.645"
+                    }
+                },
+                "mswinSQL": {
+                    "ondemand": "67.685",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "59.467",
+                        "yrTerm1.noUpfront": "61.624",
+                        "yrTerm1.partialUpfront": "59.694",
+                        "yrTerm3.allUpfront": "53.755",
+                        "yrTerm3.partialUpfront": "54.101"
+                    }
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "27.883",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "19.665",
+                        "yrTerm1.noUpfront": "21.822",
+                        "yrTerm1.partialUpfront": "19.892",
+                        "yrTerm3.allUpfront": "13.953",
+                        "yrTerm3.partialUpfront": "14.299"
+                    }
+                }
+            },
+            "eu-central-1": {
+                "linux": {
+                    "ondemand": "18.674",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "10.740",
+                        "yrTerm1.noUpfront": "12.822",
+                        "yrTerm1.partialUpfront": "10.959",
+                        "yrTerm3.allUpfront": "5.225",
+                        "yrTerm3.partialUpfront": "5.558"
+                    }
+                },
+                "mswin": {
+                    "ondemand": "24.562",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "16.628",
+                        "yrTerm1.noUpfront": "18.710",
+                        "yrTerm1.partialUpfront": "16.847",
+                        "yrTerm3.allUpfront": "11.113",
+                        "yrTerm3.partialUpfront": "11.446"
+                    }
+                },
+                "mswinSQL": {
+                    "ondemand": "67.018",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "59.084",
+                        "yrTerm1.noUpfront": "61.166",
+                        "yrTerm1.partialUpfront": "59.303",
+                        "yrTerm3.allUpfront": "53.569",
+                        "yrTerm3.partialUpfront": "53.902"
+                    }
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "27.216",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "19.282",
+                        "yrTerm1.noUpfront": "21.364",
+                        "yrTerm1.partialUpfront": "19.501",
+                        "yrTerm3.allUpfront": "13.767",
+                        "yrTerm3.partialUpfront": "14.100"
+                    }
+                }
+            },
+            "eu-west-1": {
+                "linux": {
+                    "ondemand": "16.006",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "9.205",
+                        "yrTerm1.noUpfront": "10.990",
+                        "yrTerm1.partialUpfront": "9.393",
+                        "yrTerm3.allUpfront": "4.478",
+                        "yrTerm3.partialUpfront": "4.764"
+                    }
+                },
+                "mswin": {
+                    "ondemand": "21.894",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "15.093",
+                        "yrTerm1.noUpfront": "16.878",
+                        "yrTerm1.partialUpfront": "15.281",
+                        "yrTerm3.allUpfront": "10.366",
+                        "yrTerm3.partialUpfront": "10.652"
+                    }
+                },
+                "mswinSQL": {
+                    "ondemand": "64.350",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "57.549",
+                        "yrTerm1.noUpfront": "59.334",
+                        "yrTerm1.partialUpfront": "57.737",
+                        "yrTerm3.allUpfront": "52.822",
+                        "yrTerm3.partialUpfront": "53.108"
+                    }
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "24.548",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "17.747",
+                        "yrTerm1.noUpfront": "19.532",
+                        "yrTerm1.partialUpfront": "17.935",
+                        "yrTerm3.allUpfront": "13.020",
+                        "yrTerm3.partialUpfront": "13.306"
+                    }
+                }
+            },
+            "us-east-1": {
+                "linux": {
+                    "ondemand": "13.338",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "7.671",
+                        "yrTerm1.noUpfront": "9.158",
+                        "yrTerm1.partialUpfront": "7.828",
+                        "yrTerm3.allUpfront": "3.732",
+                        "yrTerm3.partialUpfront": "3.970"
+                    }
+                },
+                "mswin": {
+                    "ondemand": "19.226",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "13.559",
+                        "yrTerm1.noUpfront": "15.046",
+                        "yrTerm1.partialUpfront": "13.716",
+                        "yrTerm3.allUpfront": "9.620",
+                        "yrTerm3.partialUpfront": "9.858"
+                    }
+                },
+                "mswinSQL": {
+                    "ondemand": "61.682",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "56.015",
+                        "yrTerm1.noUpfront": "57.502",
+                        "yrTerm1.partialUpfront": "56.172",
+                        "yrTerm3.allUpfront": "52.076",
+                        "yrTerm3.partialUpfront": "52.314"
+                    }
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "21.880",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "16.213",
+                        "yrTerm1.noUpfront": "17.700",
+                        "yrTerm1.partialUpfront": "16.370",
+                        "yrTerm3.allUpfront": "12.274",
+                        "yrTerm3.partialUpfront": "12.512"
+                    }
+                }
+            },
+            "us-west-2": {
+                "linux": {
+                    "ondemand": "13.338",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "7.671",
+                        "yrTerm1.noUpfront": "9.158",
+                        "yrTerm1.partialUpfront": "7.828",
+                        "yrTerm3.allUpfront": "3.732",
+                        "yrTerm3.partialUpfront": "3.970"
+                    }
+                },
+                "mswin": {
+                    "ondemand": "19.226",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "13.559",
+                        "yrTerm1.noUpfront": "15.046",
+                        "yrTerm1.partialUpfront": "13.716",
+                        "yrTerm3.allUpfront": "9.620",
+                        "yrTerm3.partialUpfront": "9.858"
+                    }
+                },
+                "mswinSQL": {
+                    "ondemand": "61.682",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "56.015",
+                        "yrTerm1.noUpfront": "57.502",
+                        "yrTerm1.partialUpfront": "56.172",
+                        "yrTerm3.allUpfront": "52.076",
+                        "yrTerm3.partialUpfront": "52.314"
+                    }
+                },
+                "mswinSQLWeb": {
+                    "ondemand": "21.880",
+                    "reserved": {
+                        "yrTerm1.allUpfront": "16.213",
+                        "yrTerm1.noUpfront": "17.700",
+                        "yrTerm1.partialUpfront": "16.370",
+                        "yrTerm3.allUpfront": "12.274",
+                        "yrTerm3.partialUpfront": "12.512"
+                    }
+                }
+            }
+        },
+        "storage": {
+            "devices": 2,
+            "size": 1920.0,
+            "ssd": true
+        },
+        "vCPU": 128,
         "vpc": {
             "ips_per_eni": 30,
             "max_enis": 8
@@ -16029,13 +16610,13 @@
             },
             "ap-northeast-2": {
                 "linux": {
-                    "ondemand": "0.200",
+                    "ondemand": "0.2",
                     "reserved": {
                         "yrTerm1.allUpfront": "0.1274",
                         "yrTerm1.noUpfront": "0.1521",
-                        "yrTerm1.partialUpfront": "0.1300",
+                        "yrTerm1.partialUpfront": "0.13",
                         "yrTerm3.allUpfront": "0.0846",
-                        "yrTerm3.partialUpfront": "0.0900"
+                        "yrTerm3.partialUpfront": "0.09"
                     }
                 },
                 "mswin": {
@@ -16043,9 +16624,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "0.2194",
                         "yrTerm1.noUpfront": "0.2441",
-                        "yrTerm1.partialUpfront": "0.2220",
+                        "yrTerm1.partialUpfront": "0.222",
                         "yrTerm3.allUpfront": "0.1766",
-                        "yrTerm3.partialUpfront": "0.1820"
+                        "yrTerm3.partialUpfront": "0.182"
                     }
                 },
                 "mswinSQL": {
@@ -16053,9 +16634,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "0.9564",
                         "yrTerm1.noUpfront": "0.9811",
-                        "yrTerm1.partialUpfront": "0.9590",
+                        "yrTerm1.partialUpfront": "0.959",
                         "yrTerm3.allUpfront": "0.9136",
-                        "yrTerm3.partialUpfront": "0.9190"
+                        "yrTerm3.partialUpfront": "0.919"
                     }
                 },
                 "mswinSQLWeb": {
@@ -16063,9 +16644,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "0.2964",
                         "yrTerm1.noUpfront": "0.3211",
-                        "yrTerm1.partialUpfront": "0.2990",
+                        "yrTerm1.partialUpfront": "0.299",
                         "yrTerm3.allUpfront": "0.2536",
-                        "yrTerm3.partialUpfront": "0.2590"
+                        "yrTerm3.partialUpfront": "0.259"
                     }
                 }
             },
@@ -16408,7 +16989,7 @@
         },
         "storage": {
             "devices": 1,
-            "size": 32,
+            "size": 32.0,
             "ssd": true
         },
         "vCPU": 2,
@@ -16423,10 +17004,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 4000,
+        "ebs_iops": 4000.0,
         "ebs_max_bandwidth": 62.5,
         "ebs_optimized": true,
-        "ebs_throughput": 500,
+        "ebs_throughput": 500.0,
         "enhanced_networking": true,
         "family": "Memory optimized",
         "generation": "current",
@@ -16486,9 +17067,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "0.2548",
                         "yrTerm1.noUpfront": "0.3042",
-                        "yrTerm1.partialUpfront": "0.2600",
+                        "yrTerm1.partialUpfront": "0.26",
                         "yrTerm3.allUpfront": "0.1673",
-                        "yrTerm3.partialUpfront": "0.1780"
+                        "yrTerm3.partialUpfront": "0.178"
                     }
                 },
                 "mswin": {
@@ -16496,9 +17077,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "0.4388",
                         "yrTerm1.noUpfront": "0.4882",
-                        "yrTerm1.partialUpfront": "0.4440",
+                        "yrTerm1.partialUpfront": "0.444",
                         "yrTerm3.allUpfront": "0.3513",
-                        "yrTerm3.partialUpfront": "0.3620"
+                        "yrTerm3.partialUpfront": "0.362"
                     }
                 },
                 "mswinSQL": {
@@ -16506,9 +17087,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "1.1468",
                         "yrTerm1.noUpfront": "1.1962",
-                        "yrTerm1.partialUpfront": "1.1520",
+                        "yrTerm1.partialUpfront": "1.152",
                         "yrTerm3.allUpfront": "1.0593",
-                        "yrTerm3.partialUpfront": "1.0700"
+                        "yrTerm3.partialUpfront": "1.07"
                     }
                 },
                 "mswinSQLWeb": {
@@ -16516,9 +17097,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "0.5118",
                         "yrTerm1.noUpfront": "0.5612",
-                        "yrTerm1.partialUpfront": "0.5170",
+                        "yrTerm1.partialUpfront": "0.517",
                         "yrTerm3.allUpfront": "0.4243",
-                        "yrTerm3.partialUpfront": "0.4350"
+                        "yrTerm3.partialUpfront": "0.435"
                     }
                 }
             },
@@ -16861,7 +17442,7 @@
         },
         "storage": {
             "devices": 1,
-            "size": 80,
+            "size": 80.0,
             "ssd": true
         },
         "vCPU": 4,
@@ -16876,10 +17457,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 8000,
+        "ebs_iops": 8000.0,
         "ebs_max_bandwidth": 125.0,
         "ebs_optimized": true,
-        "ebs_throughput": 1000,
+        "ebs_throughput": 1000.0,
         "enhanced_networking": true,
         "family": "Memory optimized",
         "generation": "current",
@@ -16939,9 +17520,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "0.5086",
                         "yrTerm1.noUpfront": "0.6072",
-                        "yrTerm1.partialUpfront": "0.5190",
+                        "yrTerm1.partialUpfront": "0.519",
                         "yrTerm3.allUpfront": "0.3356",
-                        "yrTerm3.partialUpfront": "0.3570"
+                        "yrTerm3.partialUpfront": "0.357"
                     }
                 },
                 "mswin": {
@@ -16949,9 +17530,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "0.8766",
                         "yrTerm1.noUpfront": "0.9752",
-                        "yrTerm1.partialUpfront": "0.8870",
+                        "yrTerm1.partialUpfront": "0.887",
                         "yrTerm3.allUpfront": "0.7036",
-                        "yrTerm3.partialUpfront": "0.7250"
+                        "yrTerm3.partialUpfront": "0.725"
                     }
                 },
                 "mswinSQL": {
@@ -16959,9 +17540,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "2.2926",
                         "yrTerm1.noUpfront": "2.3912",
-                        "yrTerm1.partialUpfront": "2.3030",
+                        "yrTerm1.partialUpfront": "2.303",
                         "yrTerm3.allUpfront": "2.1196",
-                        "yrTerm3.partialUpfront": "2.1410"
+                        "yrTerm3.partialUpfront": "2.141"
                     }
                 },
                 "mswinSQLWeb": {
@@ -16969,9 +17550,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "1.0226",
                         "yrTerm1.noUpfront": "1.1212",
-                        "yrTerm1.partialUpfront": "1.0330",
+                        "yrTerm1.partialUpfront": "1.033",
                         "yrTerm3.allUpfront": "0.8496",
-                        "yrTerm3.partialUpfront": "0.8710"
+                        "yrTerm3.partialUpfront": "0.871"
                     }
                 }
             },
@@ -17314,7 +17895,7 @@
         },
         "storage": {
             "devices": 1,
-            "size": 160,
+            "size": 160.0,
             "ssd": true
         },
         "vCPU": 8,
@@ -17329,10 +17910,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 16000,
+        "ebs_iops": 16000.0,
         "ebs_max_bandwidth": 250.0,
         "ebs_optimized": true,
-        "ebs_throughput": 2000,
+        "ebs_throughput": 2000.0,
         "enhanced_networking": true,
         "family": "Memory optimized",
         "generation": "current",
@@ -17392,9 +17973,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "1.0182",
                         "yrTerm1.noUpfront": "1.2156",
-                        "yrTerm1.partialUpfront": "1.0390",
+                        "yrTerm1.partialUpfront": "1.039",
                         "yrTerm3.allUpfront": "0.6712",
-                        "yrTerm3.partialUpfront": "0.7140"
+                        "yrTerm3.partialUpfront": "0.714"
                     }
                 },
                 "mswin": {
@@ -17402,9 +17983,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "1.7542",
                         "yrTerm1.noUpfront": "1.9516",
-                        "yrTerm1.partialUpfront": "1.7750",
+                        "yrTerm1.partialUpfront": "1.775",
                         "yrTerm3.allUpfront": "1.4072",
-                        "yrTerm3.partialUpfront": "1.4500"
+                        "yrTerm3.partialUpfront": "1.45"
                     }
                 },
                 "mswinSQL": {
@@ -17412,9 +17993,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "4.5862",
                         "yrTerm1.noUpfront": "4.7836",
-                        "yrTerm1.partialUpfront": "4.6070",
+                        "yrTerm1.partialUpfront": "4.607",
                         "yrTerm3.allUpfront": "4.2392",
-                        "yrTerm3.partialUpfront": "4.2820"
+                        "yrTerm3.partialUpfront": "4.282"
                     }
                 },
                 "mswinSQLWeb": {
@@ -17422,9 +18003,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "2.0462",
                         "yrTerm1.noUpfront": "2.2436",
-                        "yrTerm1.partialUpfront": "2.0670",
+                        "yrTerm1.partialUpfront": "2.067",
                         "yrTerm3.allUpfront": "1.6992",
-                        "yrTerm3.partialUpfront": "1.7420"
+                        "yrTerm3.partialUpfront": "1.742"
                     }
                 }
             },
@@ -17809,7 +18390,7 @@
         },
         "storage": {
             "devices": 1,
-            "size": 320,
+            "size": 320.0,
             "ssd": true
         },
         "vCPU": 16,
@@ -17887,9 +18468,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "2.0364",
                         "yrTerm1.noUpfront": "2.4313",
-                        "yrTerm1.partialUpfront": "2.0780",
+                        "yrTerm1.partialUpfront": "2.078",
                         "yrTerm3.allUpfront": "1.3414",
-                        "yrTerm3.partialUpfront": "1.4270"
+                        "yrTerm3.partialUpfront": "1.427"
                     }
                 },
                 "mswin": {
@@ -17897,9 +18478,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "3.5084",
                         "yrTerm1.noUpfront": "3.9033",
-                        "yrTerm1.partialUpfront": "3.5500",
+                        "yrTerm1.partialUpfront": "3.55",
                         "yrTerm3.allUpfront": "2.8134",
-                        "yrTerm3.partialUpfront": "2.8990"
+                        "yrTerm3.partialUpfront": "2.899"
                     }
                 },
                 "mswinSQL": {
@@ -17907,9 +18488,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "9.1724",
                         "yrTerm1.noUpfront": "9.5673",
-                        "yrTerm1.partialUpfront": "9.2140",
+                        "yrTerm1.partialUpfront": "9.214",
                         "yrTerm3.allUpfront": "8.4774",
-                        "yrTerm3.partialUpfront": "8.5630"
+                        "yrTerm3.partialUpfront": "8.563"
                     }
                 },
                 "mswinSQLWeb": {
@@ -17917,9 +18498,9 @@
                     "reserved": {
                         "yrTerm1.allUpfront": "4.0924",
                         "yrTerm1.noUpfront": "4.4873",
-                        "yrTerm1.partialUpfront": "4.1340",
+                        "yrTerm1.partialUpfront": "4.134",
                         "yrTerm3.allUpfront": "3.3974",
-                        "yrTerm3.partialUpfront": "3.4830"
+                        "yrTerm3.partialUpfront": "3.483"
                     }
                 }
             },
@@ -18304,7 +18885,7 @@
         },
         "storage": {
             "devices": 2,
-            "size": 320,
+            "size": 320.0,
             "ssd": true
         },
         "vCPU": 32,
@@ -18319,10 +18900,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 4000,
+        "ebs_iops": 4000.0,
         "ebs_max_bandwidth": 62.5,
         "ebs_optimized": true,
-        "ebs_throughput": 500,
+        "ebs_throughput": 500.0,
         "enhanced_networking": true,
         "family": "Storage optimized",
         "generation": "current",
@@ -18757,7 +19338,7 @@
         },
         "storage": {
             "devices": 1,
-            "size": 800,
+            "size": 800.0,
             "ssd": true
         },
         "vCPU": 4,
@@ -18772,10 +19353,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 8000,
+        "ebs_iops": 8000.0,
         "ebs_max_bandwidth": 125.0,
         "ebs_optimized": true,
-        "ebs_throughput": 1000,
+        "ebs_throughput": 1000.0,
         "enhanced_networking": true,
         "family": "Storage optimized",
         "generation": "current",
@@ -19210,7 +19791,7 @@
         },
         "storage": {
             "devices": 2,
-            "size": 800,
+            "size": 800.0,
             "ssd": true
         },
         "vCPU": 8,
@@ -19225,10 +19806,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 16000,
+        "ebs_iops": 16000.0,
         "ebs_max_bandwidth": 250.0,
         "ebs_optimized": true,
-        "ebs_throughput": 2000,
+        "ebs_throughput": 2000.0,
         "enhanced_networking": true,
         "family": "Storage optimized",
         "generation": "current",
@@ -19304,7 +19885,7 @@
                     }
                 },
                 "mswinSQL": {
-                    "ondemand": "7.570",
+                    "ondemand": "7.57",
                     "reserved": {
                         "yrTerm1.allUpfront": "5.6543",
                         "yrTerm1.noUpfront": "6.0587",
@@ -19314,7 +19895,7 @@
                     }
                 },
                 "mswinSQLWeb": {
-                    "ondemand": "5.030",
+                    "ondemand": "5.03",
                     "reserved": {
                         "yrTerm1.allUpfront": "3.1143",
                         "yrTerm1.noUpfront": "3.5187",
@@ -19663,7 +20244,7 @@
         },
         "storage": {
             "devices": 4,
-            "size": 800,
+            "size": 800.0,
             "ssd": true
         },
         "vCPU": 16,
@@ -19757,7 +20338,7 @@
                     }
                 },
                 "mswinSQL": {
-                    "ondemand": "15.140",
+                    "ondemand": "15.14",
                     "reserved": {
                         "yrTerm1.allUpfront": "11.3105",
                         "yrTerm1.noUpfront": "12.1198",
@@ -19767,7 +20348,7 @@
                     }
                 },
                 "mswinSQLWeb": {
-                    "ondemand": "10.060",
+                    "ondemand": "10.06",
                     "reserved": {
                         "yrTerm1.allUpfront": "6.2305",
                         "yrTerm1.noUpfront": "7.0398",
@@ -20116,7 +20697,7 @@
         },
         "storage": {
             "devices": 8,
-            "size": 800,
+            "size": 800.0,
             "ssd": true
         },
         "vCPU": 32,
@@ -20131,10 +20712,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 6000,
+        "ebs_iops": 6000.0,
         "ebs_max_bandwidth": 93.75,
         "ebs_optimized": true,
-        "ebs_throughput": 750,
+        "ebs_throughput": 750.0,
         "enhanced_networking": true,
         "family": "Storage optimized",
         "generation": "current",
@@ -20176,7 +20757,7 @@
                         "yrTerm1.noUpfront": "0.5287",
                         "yrTerm1.partialUpfront": "0.4519",
                         "yrTerm3.allUpfront": "0.3026",
-                        "yrTerm3.partialUpfront": "0.3220"
+                        "yrTerm3.partialUpfront": "0.322"
                     }
                 },
                 "mswin": {
@@ -20186,7 +20767,7 @@
                         "yrTerm1.noUpfront": "0.7127",
                         "yrTerm1.partialUpfront": "0.6359",
                         "yrTerm3.allUpfront": "0.4866",
-                        "yrTerm3.partialUpfront": "0.5060"
+                        "yrTerm3.partialUpfront": "0.506"
                     }
                 }
             },
@@ -20347,7 +20928,7 @@
         },
         "storage": {
             "devices": 3,
-            "size": 2000,
+            "size": 2000.0,
             "ssd": false
         },
         "vCPU": 4,
@@ -20362,10 +20943,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 8000,
+        "ebs_iops": 8000.0,
         "ebs_max_bandwidth": 125.0,
         "ebs_optimized": true,
-        "ebs_throughput": 1000,
+        "ebs_throughput": 1000.0,
         "enhanced_networking": true,
         "family": "Storage optimized",
         "generation": "current",
@@ -20578,7 +21159,7 @@
         },
         "storage": {
             "devices": 6,
-            "size": 2000,
+            "size": 2000.0,
             "ssd": false
         },
         "vCPU": 8,
@@ -20593,10 +21174,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 16000,
+        "ebs_iops": 16000.0,
         "ebs_max_bandwidth": 250.0,
         "ebs_optimized": true,
-        "ebs_throughput": 2000,
+        "ebs_throughput": 2000.0,
         "enhanced_networking": true,
         "family": "Storage optimized",
         "generation": "current",
@@ -20635,7 +21216,7 @@
                     "ondemand": "3.376",
                     "reserved": {
                         "yrTerm1.allUpfront": "1.7715",
-                        "yrTerm1.noUpfront": "2.1150",
+                        "yrTerm1.noUpfront": "2.115",
                         "yrTerm1.partialUpfront": "1.8077",
                         "yrTerm3.allUpfront": "1.2106",
                         "yrTerm3.partialUpfront": "1.2878"
@@ -20645,7 +21226,7 @@
                     "ondemand": "4.112",
                     "reserved": {
                         "yrTerm1.allUpfront": "2.5075",
-                        "yrTerm1.noUpfront": "2.8510",
+                        "yrTerm1.noUpfront": "2.851",
                         "yrTerm1.partialUpfront": "2.5437",
                         "yrTerm3.allUpfront": "1.9466",
                         "yrTerm3.partialUpfront": "2.0238"
@@ -20809,7 +21390,7 @@
         },
         "storage": {
             "devices": 12,
-            "size": 2000,
+            "size": 2000.0,
             "ssd": false
         },
         "vCPU": 16,
@@ -20824,10 +21405,10 @@
         "arch": [
             "x86_64"
         ],
-        "ebs_iops": 32000,
+        "ebs_iops": 32000.0,
         "ebs_max_bandwidth": 500.0,
         "ebs_optimized": true,
-        "ebs_throughput": 4000,
+        "ebs_throughput": 4000.0,
         "enhanced_networking": true,
         "family": "Storage optimized",
         "generation": "current",
@@ -20865,7 +21446,7 @@
                 "linux": {
                     "ondemand": "6.752",
                     "reserved": {
-                        "yrTerm1.allUpfront": "3.5430",
+                        "yrTerm1.allUpfront": "3.543",
                         "yrTerm1.noUpfront": "4.2299",
                         "yrTerm1.partialUpfront": "3.6153",
                         "yrTerm3.allUpfront": "2.4211",
@@ -20875,7 +21456,7 @@
                 "mswin": {
                     "ondemand": "8.408",
                     "reserved": {
-                        "yrTerm1.allUpfront": "5.1990",
+                        "yrTerm1.allUpfront": "5.199",
                         "yrTerm1.noUpfront": "5.8859",
                         "yrTerm1.partialUpfront": "5.2713",
                         "yrTerm3.allUpfront": "4.0771",
@@ -21001,7 +21582,7 @@
                         "yrTerm1.noUpfront": "3.863",
                         "yrTerm1.partialUpfront": "3.302",
                         "yrTerm3.allUpfront": "1.898",
-                        "yrTerm3.partialUpfront": "2.020"
+                        "yrTerm3.partialUpfront": "2.02"
                     }
                 },
                 "mswin": {
@@ -21011,7 +21592,7 @@
                         "yrTerm1.noUpfront": "5.213",
                         "yrTerm1.partialUpfront": "4.652",
                         "yrTerm3.allUpfront": "3.248",
-                        "yrTerm3.partialUpfront": "3.370"
+                        "yrTerm3.partialUpfront": "3.37"
                     }
                 }
             },
@@ -21040,7 +21621,7 @@
         },
         "storage": {
             "devices": 24,
-            "size": 2000,
+            "size": 2000.0,
             "ssd": false
         },
         "vCPU": 36,
