@@ -1,6 +1,4 @@
-```clojure
-[com.ninjakoala/lamarck "1.0.0"]
-```
+[![Clojars Project](https://img.shields.io/clojars/v/com.ninjakoala/lamarck.svg)](https://clojars.org/com.ninjakoala/lamarck) [![Build Status](https://travis-ci.org/ninjakoala/lamarck.svg?branch=master)](https://travis-ci.org/ninjakoala/lamarck)
 
 ```clojure
 (ns yourapp
@@ -36,11 +34,11 @@ l/instances
 
 # lamarck
 
-Provides the data from [Garret Heaton's](https://github.com/powdahound) excellent [ec2instances.info](https://github.com/powdahound/ec2instances.info) project in Clojure form for munging in your application. At [MixRadio](http://dev.mixrad.io/blog/) we use this library to help us estimate our EC2 costs.
+Provides the data from [Garret Heaton's](https://github.com/powdahound) excellent [ec2instances.info](https://github.com/powdahound/ec2instances.info) project in Clojure form for munging in your application.
 
 ## Lamarck who?
 
-[Jean-Baptiste Lamarck](http://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck), according to [wikipedia](http://en.wikipedia.org/wiki/Cloud#Luke_Howard_and_Jean-Baptiste_Lamarck) he worked on cloud classification. It seemed vaguely appropriate!
+[Jean-Baptiste Lamarck](http://en.wikipedia.org/wiki/Jean-Baptiste_Lamarck), according to [wikipedia](https://en.wikipedia.org/wiki/Cloud#First_comprehensive_classification) he worked on cloud classification. It seemed vaguely appropriate!
 
 ## License
 
