@@ -3,8 +3,8 @@
   :url "https://github.com/ninjakoala/lamarck"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[cheshire "5.7.1"]
-                 [com.taoensso/encore "2.91.1"]
+  :dependencies [[cheshire "5.8.0"]
+                 [com.taoensso/encore "2.92.0"]
                  [org.clojure/clojure "1.8.0"]]
   :profiles {:dev {:dependencies [[midje "1.8.3"]]
                    :plugins [[lein-midje "3.2.1"]]}}
